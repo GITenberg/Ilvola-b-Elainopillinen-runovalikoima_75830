@@ -1,0 +1,4645 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75830 ***
+
+language: Finnish
+
+
+
+
+ILVOLA
+
+Eläinopillinen runovalikoima
+
+
+Kokoilleet
+
+EINAR FIEANDT ja HELMI KROHN
+
+
+
+
+
+Porvoossa,
+Werner Söderström Osakeyhtiö,
+1924.
+
+
+
+
+
+
+SISÄLLYS:
+
+Alkusana.
+Aamukahvin ääressä. — Immi Hellén.
+Eläinten junamatka. — Jalmari Finne.
+Eläinten tavoista. — Z. Topelius.
+Ensimmäinen leivo. — Kaarlo Kramsu.
+Heheijaa. — Alli Nissinen.
+Hiiri. — Max Oker-Blom.
+Hiiri ja katti. — Kanteletar.
+Hiiriä pyydystämässä. — Immi Hellén.
+Hirvenhiihäntä. — Kanteletar.
+Hopoti. — Suonio.
+Hui, hai, kili. — Suonio.
+Hus sika metsään. — Kanteletar.
+Hämähäkki. — Joulukontti.
+Härkä ja poika. — Z. Topelius.
+Iloinen giraffi. — Arvid Lydecken.
+Itikoiden iltavirsi. — A. Rytkönen.
+Joutsen. — J.L. Runeberg.
+Joutsenet. — Otto Manninen.
+Jänis. — Kansanlaulun mukaan.
+Jänis. — Suonio.
+Kaksi kumppanusta. — Pääskynen.
+Kana. — Suonio.
+Kananpoika. — Suonio.
+Kanini. — Suonio.
+Karhunnahka. — Juhani Aho.
+Kaunis varsani. — Z. Topelius.
+Ken söi kesävoin? — Kanteletar.
+Kepponen. — Arvid Lydecken.
+Kettu ja etana. — Suometar.
+Kettu ja korppi. — A. Oksanen.
+Kettu ja kukko. — Z. Topelius.
+Ketun kiitos. — Arvid Lydecken.
+Kevätlintuja. — Aune Krohn.
+Kiiltomato. — Muk. Kallio.
+Kissa. — Suonio.
+Kissa ja hiiri. — Suonio.
+Kissa ja tyttönen. — Z, Topelius.
+Kissa kokkina. — Minna Krohn.
+Koiranpentu. — Suonio.
+Korppi ja kyyhky. — Larin Kyösti.
+Kotiahoilta. — Valter Juva.
+Kotiopetusta. — Pääskynen.
+Kukko. — Suonio.
+Kukko ja hanhi. — Suonio.
+Kukon ja kanan saunamatka. — Kanteletar.
+Kuu kiurusta kesään. — O. Vuorinen.
+Kyyhkynen. — Suonio.
+Kyyhkynen kylpee. — Hilja Haahti.
+Käelle. — Kanteletar.
+Leivo. — O. Vuorinen.
+Lepo, lepo lehmäni. — Kansanlaulu.
+Linnunpesä. — Immi Hellin.
+Linnunpesä. — Pääskynen.
+Lintuin käräjät. — Kanteletar.
+Lintujen ääniä. — Pääskynen.
+Lintunen ikkunaruudun takana. — Z. Topelius.
+Lintuselle. — J.L. Runeberg.
+Luojan kukku. — Kanteletar.
+Marakatin markkinat. — Tyko Hagman.
+Marjapuuni. — J.H. Erkko.
+Matkakumppanit. — Z. Topelius.
+Matkalaulu. — Jukolan Juhani.
+Mehiläinen. — Joulukontti.
+Mehiläinen ja kyyhkynen. — A.M. Lenngren.
+Mehiläisen kosto. — Tyko Hagman.
+Meni akka metsään. — Kanteletar.
+Mielevä Mirkka. — Hilda Käkikoski.
+Mikon onkiretki. — S. Calammus.
+Miksi kana kengittä? — Muk. A.K.
+Minne jouduin? — Immi Hellin.
+Minä olen kissa... — Valter Juva.
+Mirrien marssi. — Joulukontti.
+Mirri sairastaa. — Samuli Suomalainen.
+Moppe. — R. Calamnius.
+Musti. — Suonio.
+Muuttolintujen laulu. — E. Törmänen.
+Mä, mä, mää? — Suonio.
+Nasku, nasku porsahat. — Suonio.
+Oravan jäljillä. — Larin Kyösti.
+Oravan pesä. — Immi Hellin.
+Osaatko lukea? — Immi Hellin.
+Paimenen laulu. — J.H. Erkko.
+Palvelin minä rikasta miestä. — Kanteletar.
+Peippo. — Suonio.
+Perhosen satu. — J.H. Erkko.
+Pesäänsä suojaava lintu. — Larin Kyösti.
+Pieni kala. — Pääskynen.
+Pikku juttu. — Alli Nissinen.
+Poika ja koira. — Muk. A. Rytkönen.
+Pääskynen. — Alli Nissinen.
+Pääskyselle. — J. Mustakallio.
+Pääskyselle. — F.P. Kemelli.
+Pääskyset saapuvat. — Arvid Lydecken.
+Rakki ja metsäkoira. — Z. Topelius.
+Riikinkukko. — Arvid Lydecken.
+Ruisrääkkä. — Larin Kyösti.
+Saksanhirvet. — Pääskynen.
+Sammakko. — J.H. Kellgren.
+Satakieli. — Muk. Arvi Jännes.
+Simpukan tarina. — Aapo Pärnänen.
+Sinne meni! — Samuli Suomalainen.
+Sirkan häämatka. — Eino Leino.
+Sirkka. — Kallio.
+Sorsaparvi. — Suonio.
+Sorsat. — Suonio.
+Suden kiitos. — Arvid Lydecken.
+Tipu, tipu kuuleppas. — Suonio.
+Tohtorin luona. — Tilhi.
+Turvaton. — Hilja Haahti.
+Tuu, tuu, tuu! — Suonio.
+Tyttö ja kissa. — Suonio.
+Tyttö ja kissanpoikaset. — Pääskynen.
+Valokuvaajassa. — Immi Hellen.
+Varpunen. — Suonio.
+Varpunen ja hevonen. — Z. Topelius.
+Varpunen joulu-aamuna. — Z. Topeliuksen muk.
+Vasikka. — Suonio.
+Vieraisilla. — Immi Hellin.
+Yrjö, Musti ja Mirri. — Joulupukki.
+Yökkö. — Länkelä.
+Arvoituksia.
+Sananlaskuja.
+
+
+
+
+ALKUSANA.
+
+
+Minkä kuvana näkee tai runona kuulee, se syöpyy poistumattomaksi
+mieleen. Kuvastojen täydennykseksi on Ilvola aiottu. Tutustukoon lapsi
+jo varhain siihen eloa sykähtelevään kuvaan, jonka kirjailija luovana
+taiteilijana on saanut luonnosta.
+
+On sanottu, että ainoa yhdysside nykyisten oppiaineitten välillä on
+hihna, jossa poika kantaa koulukirjojaan. Olkoonpa Ilvola tässäkin
+suhteessa askel yhteistyöhön oppisuunnitelmamme eri aineiden kesken.
+Tyydyttäköön se lopuksi sitä alkeellista rytminkaipuuta, joka jo
+pienessä lapsessa esiintyy, ja valmistakoon se nuoren mielen alttiiksi
+myöhäisemmällä iällä vastaanottamaan runouden suoman tyydytyksen.
+
+Helsingissä toukokuulla 1924.
+
+E.F. ja H.K.
+
+
+
+
+AAMUKAHVIN ÄÄRESSÄ.
+
+
+Kukko:
+
+    Hyvää huomenta, punahilkka!
+    Miltäs se maistuu kahvitilkka?
+
+Kana:
+
+    Ah, se on aivan liian kuumaa,
+    Kieltäni polttaa, päätäni huimaa.
+
+Kukko:
+
+    Kahvi on hyvää — mitä mä kuulen
+     Huonolla tuulella, rouvani, luulen.
+
+Kana:
+
+    Eipä se olisi kumma lainkaan,
+    Voi mitä unissa nähdä sainkaan!
+
+Kukko:
+
+    Kerro se mulle, kullanmuru,
+    Kertoen aina haihtuu suru.
+
+Kana:
+
+    Mull’ oli piilossa pesä uusi,
+    munia siinä jo viisi, kuusi.
+    Lapset sen löysivät, ai, ai, ai!
+    Rintani haikean haavan sai.
+
+Kukko:
+
+    Rauhoitu, rauhoitu, armas Lotta,
+    Eihän se ollut edes totta.
+
+                   Immi Hellen.
+
+
+
+
+LAULU ORAVASTA.
+
+
+    Makeasti oravainen
+    Makaa sammalhuoneessansa;
+    Sinnepä ei Hallin hammas
+    Eikä metsämiehen ansa
+    Ehtineet milloinkaan.
+
+    Kammiostaan korkeasta
+    Katselee hän mailman piirii,
+    Taisteloa allans' monta;
+    Havu-oksan rauhan-viiri
+    Päällänsä liepoittaa.
+
+    Mikä elo onnellinen
+    Keinuvassa kehtolinnas'!
+    Siellä kiikkuu oravainen
+    Armaan kuusen äitinrinnass':
+    Metsolan kantele soi!
+
+    Siellä torkkuu heiluhäntä
+    Akkunalla pienoisella.
+    Linnut laulain taivaan alla
+    Saattaa hänen iltasella
+    Unien Kultalaan.
+
+         Aleksis Kivi.
+
+
+
+
+ELÄINTEN TAVOISTA.
+
+
+    Ain' olkoon jalopeuran jalous, miehuus sulia,
+    vaan et kuin tiiker' julmaks saa verenjuojaks tulla.
+     Kuin kyyhky ole siivo, kuin lammas lauhkea,
+    kuin aasi älä tuhma, kuin kissa kavala.
+     Ain' ole uskollinen kuin koira ihmisellen,
+    vaan älä imartele kuin koira lieherrellen.
+    Iloinen ole, vilkas kuin lintu laulukieli,
+    ja viisas, älä viekas kuin kettu myrkkymieli.
+    ykspäinen älä ole kuin härkä jörö on.
+     Kuin joutsen puhdas ruumiis ja sielus olkohon.
+    Kuin kala ole vaiti, jos kuulet salaisuutta.
+    Ja oravasta opi liikkeissäs sukkeluutta.
+    Kateudest' älä halkea kuin teki rietas konna.
+    Pelosta älä värjy kuin jänis miehuutonna.
+     Käy eespäin, älä taapäin kuin rapu, kulkeissasi,
+    Äl' ole susi ahne, äl' liukas ankerjas,
+    äläkä sika rietas. Kakspäinen älköön kieles
+    kuin käärmeen kieli olko. Sun pyrkiköhön mieles
+    taivasta kohti aina kuin kotka kohoomaan.
+     Äl' loio laiskotellen kuin karhu luolassaan.
+    Kuin hevonen sä ollos rivakka, virkku vainen,
+    ja älä vitkastele kuin hidas etanainen.
+    Kuin riikinkukko älä vaan vaatteillasi loista.
+    Kas kalkkunata pöyhkää! Sun tapas olkoon toista.
+     Äl' apinana matki. Jos olet nuori vielä,
+    äl' yhdy korpin huutoon, vaan laula leivon kiellä.
+    Sa ota muurahaisen vireydest' yllykettä.
+     Kukasta karvaast' ime kuin mehiläinen mettä.
+    Lujaksi työsi tee, kuin korallien luoma,
+    min vuosisadat kestää. Nää kaikki hyvin huomaa,
+    oi ihminen, sä jaloin, ylevin elävistä!
+     Näin luontokappaleista sä opit hyödyllistä.
+
+                         Z. Topelius.
+
+
+
+
+ENSIMMÄINEN LEIVO.
+
+
+    Jo soi sun äänesi, leivonen,
+    vaikk' kylmä ilma on vallan.
+    Sä laulat kevättä toivoen
+     taas jälkeen yöllisen hallan.
+    Vaikk' yöt on kylmät ja synkeät,
+    ja lumen peitossa maamme,
+    iloiten ilmassa viserrät:
+     »Kevähän kohta me saamme!»
+
+    On uskos suuri, sä pienoinen!
+    Oi, jospa keskellä jäiden
+    vois tuloa toivoa riemuiten
+     keväisten lämpöisten säiden,
+    unohtain kauhua tyhjyyden,
+    ja hallojen turmioita,
+    haaveilla paistetta päivyen
+     ja niittyjä vihannoita!
+
+               Kaarlo Kramsu.
+
+
+
+
+HEHEIJAA.
+
+
+    Heheijaa, heheijaa!
+    Ken ruohossa leijaa?
+     Ken tossuitta tepsii
+    ja kengittä kepsii?
+     Se harmaja kana
+    on naapurin herran. —
+    Näin suutarin luokse
+    se marssi jo kerran
+    ja kengät se tilas. —
+     Mut suutari pilas
+    ne saappahat aivan
+    kun lestiä puuttui. —
+    Niin suutari suuttui
+    ja vierasta sätti:
+     sen kengittä jätti.
+
+         Alli Nissinen.
+
+
+
+
+HIIRI.
+
+
+    Kun illan varjot lankeaa
+    ja hämy hiipii tupaan,
+    niin joku hiljaa hipsuttaa
+     ja liikkuu ilman lupaa.
+
+    Se on niin pieni harmaja
+    ja pehmyt villasukka.
+    Se öinen hipsustelija
+    on pieni hiirirukka.
+
+    Se etsii leivänmurua,
+    kun nälkä näykkii suolta.
+    Ja siit' on sillä surua
+    ja sydän täynnä huolta.
+
+    »Kenties pienen kannikan
+    luo reiän, alle kaapin
+    sä kätkit mulle, makean,
+    sen siitä köyhä saapi!»
+
+    Ja nokka pieni kohoksen:
+    »Ah, tätä herkkupöytää!»
+    Kun kaapin alta sirusen
+    se iloksensa löytää.
+
+    Se kepeissä kengissään
+    nyt leivän luokse hyppää.
+    Sen sieppaa sievään käpälään
+    ja suuhun heti nyppää.
+
+    Se jauhaa pikku hampahin,
+    se jyrsii, järsii salaa,
+    ja vielä huomiseksikin
+    se säästää pari palaa.
+
+    Nyt kipin kapin kiipeää
+    se kaapin laitaa jyrkkää,
+    On toimessa nyt häntä, pää
+    ja takajalka tyrkkää.
+
+    Ja kaapin korkeudesta
+    on laaja näköala.
+    Kas, siellähän on vuoteessa
+    se hellä avustaja.
+
+    Sua kiitollisna katsastaa
+    ja suorii viiksiänsä.
+    Vaan konsa päivä sarastaa,
+    se rientää reikähänsä.
+
+         Max. Oker-Blom.
+           Suom. Immi Hellen.
+
+
+
+
+HIIRI JA KATTI.
+
+
+      Hiiri metsähän menevi,
+    lyhytjalka lynsyttävi,
+    pikku kelkkanen perässä,
+    pikku kirves kelkkasessa.
+      Päätyi katti kannon päähän,
+    kannon päähän katsomahan:
+      »Minne menet hiiri rukka,
+    lyhytjalka lynsyttelet?»
+      »Metsähän menen poloinen,
+    korpehen kovaosainen.»
+      »Mitä siellä tekemähän,
+    kuta raukka raatamahan?»
+      »Lehtikoivun leikkomahan,
+    puun sorian sortamahan.»
+      »Entäs kuolet koivun alle,
+    puun sorian sortumille?»
+      »Pistäyn mä puun rakohon,
+    koen mennä maan rakohon.»
+      »Entä nälkäki tulevi;
+    mitä siellä syöäksesi?»
+      »Syön mä koivun kuoruisia,
+    puren haavan kettusia.»
+      »Entäs turpuvi mahasi,
+    vatsa paisnvi pahaksi?»
+      »Puhkasen ma puikkosella,
+    tärähytän tähkäsellä.»
+      »Entäkun veri tulevi?» —
+    »Veren tullaki pitävi.»
+      »Entäkun kivistelevi?» —
+    »Voitelen ma voikkosella.»
+      »Mistä saat sa voikkosia?» —
+    »Akan vanhan vakkasesta.»
+      »Mistä vanha akka saapi?» —
+    »Nuoren neien lippahasta.»
+      »Mistä nuori neiti saapi?» —
+    »Nuoren lehmäsen nisästä.»
+      »Mistä sitä nuori lehmä?» —
+    »Korehista korttehista,
+    tuorehista turpehista,
+    vihannista mättähistä,
+    helyheinän hepsusista,
+    luojan pitkiltä pihoilta,
+    kaikkivallan vainioilta.»
+      »Sen vainen valehtelitki;
+    vaan ma nyt sinun opetan,
+    ettet totta toisen kerran
+    mua syöttele sanoilla.»
+    Siinä kohta kourihinsa,
+    kääppäsi käpälihinsä,
+    tappoi hiiren hirviästi,
+    ja kaotti kauhiasti.
+      Siihen loppui hiiren virsi,
+    katkesi katin tarina.
+
+                 Kanteletar.
+
+
+
+
+HIIRIÄ PYYDYSTÄMÄSSÄ.
+
+
+    Katsoppas kummaa, virkkoi Miiri,
+    tuopa on oikein lystikäs hiiri,
+     sarvetkin päässä on sankarilla
+    juuri kuin pässillä puskurilla.
+    Oivan paistin ma siitä saisin,
+     kun siihen koskea uskaltaisin.
+
+    Se sarvekas vastaa: kaikki ne tässä,
+    ovatkin hiiriä pyydystämässä!
+    Ylen tyhmä sä oot, sen huomaa kyllä,
+    näin kaunisko takki ois hiirellä yllä?
+     Ja jalassa näinkö kiiltävät saappaat?
+    Vai minut sä paistiksi suuhusi kaappaat!
+     Koitappas koskea, sarvilla pukkaan
+    ja kynteni isken pörrötukkaan.
+    Oon suurempi herra kuin hiiri vainen,
+     min' olen koppakuoriainen.
+
+                      Immi Hellén.
+
+
+
+
+HIRVENHIIHANTA.
+
+
+      »Mie olen hirven hiihannassa,
+    jalopeuran jaksannassa.
+     »Onko hirviä salossa,
+    onko nähty näillä mailla?» —
+      »Onpa hirviä salossa,
+    onpa nähty näillä mailla,
+    oiva hirvi liinaharja;
+    täss' on käynyt tään kesosen
+    meiän herran heinikossa,
+     nähty on kanssa kaalimaassa.
+    Paljo on pahoa tehnyt,
+    syönyt heinät, maannut marjat,
+    kaikki kaalinpäät kalunna,
+    jost' on vaikia valitus
+    ylitse koko kylämme.
+     Tapa kohta kun tavannet,
+    lyö'pä päähän, kun sa löyät,
+    noua häntä nuolellasi,
+    jonahuta jousellasi,
+    tahi laske laahingilla,
+     pyyä pyssysi kerällä!»
+
+             Kanteletar.
+
+
+
+
+HOPOTI.
+
+
+    Hopoti, hopoti, hopotihoi!
+    Varsa hypäten hirnuu,
+    hopoti, lopoti, lopotiloi!
+    Voita Valpuri kirnuu.
+    Voin minä voitelen leivällen,
+    leivän vien minä varsallen,
+    sitten ei varsani pelkää! —
+    Hei! jopa pääsin mä selkään!
+
+    Kopoti, kopoti, kopotikoi!
+    Joutuhun, varsa, nyt juokse.
+    Hopoti, hopoti, hopotihoi!
+    Vie minut mummoni luokse.
+    Yli vuorien harpataan,
+    poikki merien kaalataan.
+    Mummo kakkuja paistaa,
+    tekisi mieleni maistaa.
+
+                  Suonio.
+
+
+
+
+HUI, HAI, KILI.
+
+
+    Hui, hai, kili,
+    sinä hulivili!
+     Missä on sarves?
+    Kylläp' olis tarves,
+    kun jo lähdet pökkisille,
+     emän kanssa voittoisille.
+
+                    Suonio.
+
+
+
+
+HUS SIKA METSÄÄN.
+
+
+    Hus sika metsään!
+    Mitä sika metsässä?
+    Tuomahan marjoja
+    punaisella pussilla,
+     sinisellä silkillä,
+    korialla kontilla,
+    vaskisella va'illa,
+    kultaisella kuppisella,
+     maalatulla maljasella.
+
+            Kanteletar.
+
+
+
+
+HÄMÄHÄKKI.
+
+
+    Vetelen verkkoja, lankoja laitan,
+    konnia koukkuhun pyydän —
+    kiusantekijät kahdeksi taitan,
+     syylliset suuhuni syydän.
+
+                   Joulukontti.
+
+
+
+
+HÄRKÄ JA POIKA.
+
+
+    Löi lapset nurmella leikkiään,
+    siell' lypsi eukkonen lehmiään,
+    Savussa vasikat ees-taas juoksi,
+     ei tohdi itikat tulla luoksi.
+
+    Venyipä nurmella mulkoillen
+    myös härkä leveänaamainen.
+     Sen luo käy poikanen pienokainen:
+    »oletpa hirveän tuumaavainen
+    mitäpä nyt sinä mietit noin,
+     tulet tuiki viisaaksi piakkoin?»
+
+    Mut' härkä mylvien vastaa: »Täällä
+    niin pehmyt maata on sammalen päällä.
+    Syön tässä ruohoa aamuin, illoin.
+     En mitään minä mieti silloin.»
+
+                     Z. Topelius.
+
+
+
+
+ILOINEN GIRAFFI.
+
+
+    Oli kerran Afrikassa laihanlainen,
+    keimaileva giraffi-nuorukainen
+    aina suuresti huolissaan
+     pitkän pitkästä kaulastaan.
+
+    Tuumaili öisin ja päivin ja illoin:
+    mitenkä kaulani kaunistan ja milloin?
+    Vihdoin päätti hän lainan nostaa,
+    kauluksen ja kirjavan kaulahuivin ostaa!
+
+    Siitä sitten lysti kasvoi koko Afrikassa,
+    hassumpaa ei koskaan vielä nähty maailmassa.
+    Viisisataa neekeriä heti nauruun kuoli,
+     giraffi vain mielissänsä huuliansa nuoli.
+
+                         Arvid Lydecken.
+
+
+
+
+ITIKOIDEN ILTAVIRSI.
+
+
+    Ii, ii, itikaiset
+    pistelevät pahoin,
+    eikä silloin yhtäkään
+     ne jätä ehjin nahoin.
+
+    Ii, ii, itikaiset
+    hyörivät kuin hullut,
+    Maijan marjaposki on
+     kuin sodasta ois tullut.
+
+               A. Rytkönen.
+
+
+
+
+JOUTSEN.
+
+
+    Kesäisen illan kullasta,
+    säteillen onneaan,
+    tuo vaipui joutsen valkea
+     joelle joikumaan.
+
+    Suloa Suomen laulu soi,
+    sen ilmain ilontaa,
+    yökaudet kuinka päivän koi
+    unensa unhoittaa.
+
+    Kuin varjot siell' on runsahat
+    all' leppäin, koivujen;
+    kuin salmet kullan-soiluvat
+    ja vesi vilpoinen.
+
+    Siell' ystäväinen kellä on,
+    kuink' iki-ihanaa;
+    kuink' ompi unhoittumaton
+    se uskollisten maa.
+
+    Noin vieri vettä, rantoa
+    ylistys koruton,
+    ja joutsen vasten rintoa
+    jo joikui puolison:
+
+    Vaikk' eipä elos unelma
+    käy vuosisatain taa,
+    sait laulaa Suomen suvessa,
+     sen aalloill' armastaa.
+
+            J.L. Runeberg.
+              Suom. 0. Manninen.
+
+
+
+
+JOUTSENET.
+
+
+    Yli soiluvan veen ne sousi,
+    ne aallon ulpuina ui,
+    kun aurinko nuorna nousi,
+     yöt Pohjan kun punastui.
+
+    Lumikaulat kaartehin ylpein
+    veen kuultoon kuvia loi;
+    povet aamun kullassa kylpein
+    ne outoja unelmoi.
+
+    Vain joskus onnensa julki
+    ylen suuren ne joikuivat,
+    ja soinnut aalloilla kulki
+    niin aavistuttelevat
+
+    kuin hyminä huomenkelloin
+    salokappelin kaukaisen;
+    ja aallot vienosti velloin
+    ne kantoi kaikua sen.
+
+    Ne rauhassa souti ja solui
+    suven kerkeän kestämän,
+    jonot lumme-valkeat jolui
+    syvän päällitse päilyvän.
+
+    Kohos siiville kerran ne sitten,
+    suvi kun oli muisto jo vain,
+    kukat laulavat lainehitten,
+    unet valkeat ulappain.
+
+    Ne matkasi päivänmaihin;
+    viel' loistava siipi loi
+    kuvan viimeisen alle kaihin,
+     mi aallon jo kammitsoi.
+
+                   0. Manninen.
+
+
+
+
+JÄNIS.
+
+
+    Jänis pikku poikanen
+    hyppäs korkeelle vuorellen,
+    Miks' ajetaan, miks ajetaan
+     koirain kanssa aina vaan?
+
+    En ole käynyt sun laihossas,
+    en ole syönyt sun kaurojas.
+    Miks ajetaan, miks ajetaan
+    koirain kanssa aina vaan?
+
+    Kesäll' olen harmaja,
+    talvell' olen valkea.
+    Miks ajetaan, miks ajetaan
+    koirain kanssa aina vaan?
+
+    Suuni ompi ristissä,
+    korvani on pystyssä.
+    Miks ajetaan, miks ajetaan?
+    koirain kanssa aina vaan?
+
+    Lehti on mun ruokani,
+    lumi on mun juomani.
+    Miks ajetaan, miks ajetaan
+    koirain kanssa aina vaan?
+
+    Vereni on sakea,
+    lihani on makea.
+    Siks ajetaan, siks ajetaan
+     koirain kanssa aina vaan.
+
+          Kansanlaulun mukaan.
+
+
+
+
+JÄNIS.
+
+
+    Mun pupu jänöni pienoinen,
+    kuink' olet hieno ja pehmoinen!
+     Kuink' korvas on pitkät, taitais luulla
+    sun voivan virstojen päähän kuulla.
+    Ja kehräsilmäs ne melkein on suuret
+     kuin lumpeen lehdet tai nauriin juuret.
+
+    Nyt katselet maahan, nyt taivahalle,
+    nyt vasempahan, nyt oikealle,
+     vaan etpä näe kuin Mirri häijy
+    sun henki parkaas hiipien väijyy.
+    Ma pelkään, pupu, sä saanut lienet,
+     kyll' isot silmät, mut aivot pienet!
+
+                           Suonio.
+
+
+
+
+KAKSI KUMPPANUSTA.
+
+
+    Tuolla riippakoivuin alla
+    niemen kainalossa
+    muinoin kaksi kumppanusta
+    eli sovinnossa:
+     toinen Halli luppakorva,
+    toinen pikku Heikki;
+    aamut, illat yhtenänsä
+     kesti heillä leikki.
+
+    Ken voi kaikki kertoella
+    ilot ystävysten,
+    kun he vieri ruohikossa
+    aina vieretysten?
+     Toisinaan taas kilpaa juostaan,
+    että tomu tuiskii:
+    Halli eellä, Heikki seuraa,
+     että hiukset huiskii.
+
+    Öin ja päivin luopumatta
+    ovat toisistansa.
+    Yhdess' aina leikkiessä,
+    tositoimissansa;
+     yöllä Halli uskollisna
+    Heikin luona makaa,
+    Heikki päiväll' ystävälleen
+     torttujansa jakaa.
+
+    Heikki käypi lukemahan,
+    totinen ja vakaa,
+    vetää uuden aapiskirjan
+    ison kaapin takaa.
+     Pöydän ääress' istuu sitten
+    mielell' ahkeralla:
+    Halli, kuono käpälillään,
+     lepää pöydän alla.
+
+    Päivä oli heltehinen
+    kerran kesäkuussa.
+    Uiden Heikki loiskutteli
+    vettä joensuussa;
+     virvoitettuna jo vihdoin
+    poika pyrki rantaan,
+    painoi pienet jalkasensa
+     pehmoisehen santaan;
+
+    aikoo ottaa vaattehensa,
+    ensin tarttuu paitaan, —
+    sen hän oli ripustanut
+    vihriäiseen raitaan. —
+     Mutta katso! Riihatonna,
+    niinkuin villikissa.
+    Halli rientää pitkin rantaa,
+     housut hampahissa.
+
+    Heikki heti juoksemahan
+    eikä muista paitaa;
+    poika parka hikoellen
+     kiirehtii min taitaa;
+    turhaan huutaa ystäväänsä,
+    turhaan toruu Heikki;
+    juoksu tää, se Hallista on
+     oivallinen leikki.
+
+    Ilman aikojaan ei heitä
+    Halli saalistansa;
+    Heikki vasta pellon päässä
+     saa sen kourahansa. —
+    Hetken päästä ompi taasen
+    rauha rakentunut,
+    ystävyys vaan vahvemmaksi
+     jälleen vahvistunut.
+
+                 Pääskynen.
+
+
+
+
+KANA.
+
+
+    »Kaa, kaa, kana,
+    onko muna uusi?
+    Paljonko se maksaa?» —
+    »Penniä kuusi.» —
+     »Huh sit' en jaksa.» —
+    »Penniä kaksi.» —
+    »Heitä halvemmaksi.» —
+    »Yhden pennin.» —
+     »Annas tännen.»
+
+              Suonio.
+
+
+
+
+KANANPOIKA.
+
+
+    Kananpoika juoksi
+    metsään yksinään;
+    kana turhaan luoksi
+    kutsui tytärtään;
+     totellut ei tyttönen. —
+    Tuli haukka, koppas sen, —
+    kukko-vaari huusi:
+    »Kykkerikyy!
+     Tyttären syy!»
+
+                 Suonio.
+
+
+
+
+KANINI.
+
+
+    »Kuinka näin olet valkoinen,
+    jänö lumien karvainen?
+     Eihän nyt enää talvea kestä.
+    Vai jok' on tapa nyt pupuja pestä,
+    siksi kun heistä lähtevi harmaa?
+     Niinpä sullekin tehty on varmaan.» —
+
+    »Jänöks mua ei kutsutakaan;
+    jänösen serkku ma lienen vaan.
+    Kani on nimeni, sitä kuulen,
+    kotipupunen myös, niin luulen.
+     Enkä mä muuttele karvojain;
+    sen pidän värin, min kerran sain.
+    Kesän, talvenkin valkoisena,
+     ain' olen kilttinä, kaunoisena.»
+
+                        Suonio.
+
+
+
+
+KARHUNNAHKA.
+
+
+    Kaksi poikaa puuttehessa rahan
+    möivät naapurilleen karhun nahan.
+     Oli kaatamatta karhu tosin vielä,
+    mut ammuttaisiin pian kyllä metsätiellä;
+    se jo oli nähty, iso niinkuin heinähäkki.
+     »Siitä tulee teille pulska rekitäkki.»
+    Niin pojat kehui, kaupat tehtiin, lyötiin kättä
+    ja juostiin metsään viipymättä.
+    Olalla oli kummallakin pyssy,
+     päässä metsämiehen töyhtömyssy.
+
+    Jo puhellessa näkyy karhu, suurenmoinen.
+    Puuhun kiipee heti poika toinen,
+    toinen, vaikka sydämensä sätkähtää,
+    mahallensa maahan mätkähtää.
+     Hän on kuullut ettei karhu tapa,
+    kun on maassa suorana kuin vapa.
+    Hän ihan hiljaa on, ei virka mitään
+     ja hiiskumatta henkeänsä pitää.
+
+    Karhu tulee luokse, kuolleheksi luulee,
+    kääntää poikaa käpälällä seljälleen ja suulleen,
+    nuuskii, haistaa, nenää maistaa,
+     pistää turvan henkireikiin,
+    tarkastelee eestä takaa:
+    »Raatohan se onkin, joka siinä makaa,
+    hyi kun haisee.»
+               Sen sanottuaan karhu lähtee,
+    ja pian metsä hänet peittohonsa kätkee.
+
+    Puussa ollut maahan loikkaa,
+    puhuttelee karhun nuuskimata poikaa:
+    »Mitä karhu korvahasi kuiskas?»
+    »Viisainta on karhu ensin kuoliaaksi lyödä
+     ja vasta sitten nahka naapurille myödä.»
+
+                            Juhani Aho.
+
+
+
+
+KAUNIS VARSANI.
+
+
+    Mun varsan' on niin sorja
+    ja kaunis käynniltään,
+    mun varsan' on niin norja
+    ja liukas liikkeissään.
+     Jos ohi pyrit milloin,
+    se eipä laskekaan.
+    Sen vilkkuu korvat silloin,
+     se kuopii jalallaan.
+
+    Miel' ajeloon on mulla,
+    mut haast' ei tulekaan
+    se rengin huutelulla,
+    sen itse noutaa saan.
+     Se muist' ei koskaan huoli,
+    sen itse suitsitan,
+    ja sitten niinkuin nuoli
+     kiidämme matkahan.
+
+                 Z. Topelius.
+
+
+
+
+KEN SÖI KESÄVOIN?
+
+
+    Ken söi kesävoin? —
+    Kissa söi kesävoin.
+    Missä kissa? — Aitan alla.
+     Missä aitta? — Maahan kaatui.
+    Missä maa? — Vetehen vieri.
+    Missä vesi? — Härkä särpi.
+     Missä härkä? — Niityllä.
+    Missä niitty? — Viikate vilahti.
+    Missä viikate? — Kannon päässä.
+    Missä kanto? — Toukka kaivoi.
+    Missä toukka? — Kukko nokki.
+     Missä kukko? — Kuusosessa.
+    Missä kuusi? — Kirves kaatoi.
+    Missä kirves? — Seinän alla.
+    Millä sieltä saatanehe? —
+    Haapaisilla halkosilla,
+     korennoilla koivuisilla.
+
+             Kanteletar.
+
+
+
+
+KEPPONEN.
+
+
+    Oli kaksi apinata,
+    iloisia molemmat.
+    Monta tuumaa mielessänsä
+     hautoivat nuo veitikat.
+
+    Toinen oli Filistiina,
+    toinen Jonte nimeltään.
+    Oksallansa auringossa
+    istuivat he mielissään.
+
+    Vanha setä virtahepo
+    kulki ohi tuumissaan.
+    — Jonte, mennään ratsastamaan!
+    — Sisko kulta, mennään vaan!
+
+    Kiipesivät hevon selkään.
+    Hepo huusi: — menkää pois!
+    — Kutti, kutti, kirkui Jonte,
+    miks'et täällä olla sois?
+
+    Virtahepo tuumi hiljaa:
+    — Kutti itsellenne vaan.
+    Jokeen heitän teidät kohta. —
+    Läksi sitten juoksemaan.
+
+    Jokeen sukelsi kuin saukko,
+    veteen jäivät apinat.
+    Märkinä ja nolattuina
+     uivat rantaan veitikat.
+
+         Arvid Lydecken.
+
+
+
+
+KETTU JA ETANA.
+
+
+    Pahan ilkinen etana,
+    mato musta, maanalainen,
+    työnsi päänsä tunkiosta,
+     nosti nokkansa noesta,
+    kehui kulkulla kovalla,
+    kuinka taisi taikaukset,
+     luvut kaikki lääkäritten.
+
+    Kettu kuuli kelvollinen,
+    joka luikahti likeltä;
+    sanoi toukalle sanalla:
+     »Ensin paranna pahasi,
+    omat vammas voitehilla,
+    poies poista puutoksesi,
+     ennen kun sä ennakolla
+    muitten vikoja vihellät,
+    loihdit muitten loukkaukset,
+     tulet toisten tohtoriksi.
+
+                 Suometar.
+
+
+
+
+KETTU JA KORPPI.
+
+
+    Aamuisissa alkoi olla päivä,
+    aholla kun juoksi kettu-räivä,
+     joka etsi aamu-suurustansa,
+    sillä nälkä kurni suoliansa,
+    kuin ei eilis-päivän syömisistä
+     ollut paljon yhtään virkkaamista.
+
+    Triossapa nyt keksi korpin puussa,
+    joll' ol' aika juustokyörä suussa;
+     vesi kiehahtavi kielellensä,
+    ja hänelle iski mielehensä:
+    »Milläs keinoin juuston tuolta saisin,
+     jospa häntä hiukan narrajaisin!»
+
+    Ei oo millänsäkään, eikä juokse,
+     hiljalleen vain astuu korpin luokse,
+    ja sanoo lähelle tultuansa,
+    hunaja ja nöyryys huulillansa:
+     »Hyvää huomenta, herr Korppeliini!
+    Voi, kuin teidän paitanne on viini!
+    Meillä muill' on päällä nahkatakki,
+    mutta teill' on ihan kiiltomusta rakki,
+    teill' on myös jalassa saappahaiset,
+     joiss' on alla aika anturaiset,
+    sormukset soreat sormissanne,
+    rengas kumpasessai korvassanne;
+    miestä kauniimpaa ja pulskempata
+    ilman alt' ei taideta tavata;
+     ja kuin ain' isommissa suvuissa
+    laps' on harjoitettu lauleluissa,
+    niin ajattelee typerä pääni,
+    että teilläkin on kaunis ääni,
+    käen sekä leivon voittaisitte,
+     jos vaan laulamahan antausitte.»
+
+    Korppikos hyväksyi kiitostansa,
+    laulaja muk' oli luulossansa,
+    rykäsi — ja äänen raikahutti,
+    että kangas toisen kaikahutti;
+     juustopa pudota putkahtavi,
+    ketun suuhun suoraan sutkahtavi,
+    ja kun korppi kaikkein ihmeheksi
+    luuli laulaneensa, niin hän keksi,
+     ett' ol' suurus suustansa pudonna,
+    keksi kuinka kettu, Lemmon konna,
+    poies juosta pötki juuston kanssa,
+     ja hänelle nauroi juostessansa.
+
+                  A. Oksanen.
+
+
+
+
+KETTU JA KUKKO.
+
+
+    Kettu:
+
+      Mull' arvoitus on. Kuka arvaa sen?
+
+    Kukko:
+
+      Min' arvaan. Virkappa, kultasen'!
+
+    Kettu:
+
+      Ken pöyhkänä antavi itseään
+      niin narrata, että sit' itkee hän?
+      Ken elukoista on viisahin?
+      Ja kellä se ruoka on herkkuisin?
+      Se arvoitus vaivaa päätäs' aivan.
+      Käy tänne. Poistan suita vaivan.
+
+    Kukko:
+
+      Ai, kuinka sa runnot ja kynsit vain!
+
+    Kettu:
+
+      Niin, kukko, sa nyt olet kourissain.
+      Nyt selvitän arvoituksenkin:
+      elukoista se kettu on viisahin.
+       Minä juuri, tyhjiä juoruillen,
+      näin hankin atrian herkkuisen.
+      Mut pöyhkä, jok' antavi itseään
+      niin narrata, että sit' itkee hän,
+      se sin' olet, kukko ystäväin!
+       Ja senvuoks suuhuni syön sun näin.
+
+                        Z. Topelius.
+
+
+
+
+KETUN KIITOS.
+
+
+    Viekas Kettu Repolainen
+    luisen törrin kurkkuun sai,
+     juoksi suoraan Kurjen luokse
+    huusi vaivoin: ai, ai, ai,
+    tohtori, nyt auta, auta,
+     Repo rukkaa uhkaa hauta!
+
+    Kurki katsoi, väänsi, käänsi,
+    pälkähästä pelasti.
+     Repo siinä vallan toipui,
+    äkkipikaa parani.
+    — Nytpä jälleen haastaa jaksaa,
+     virkkoi kurki, — sietäis' maksaa!
+
+    Viekas Kettu Repolainen
+    sirppi silmät sirpilleen:
+     — Maksaa! totta tosiaankin
+    olen hölmö, jos niin teen.
+    Pääsi oli kidassani
+    enkä purrut sittenkään,
+    kiitä, koito, onneasi,
+     että säästyit elämään.
+
+    — Morjens! päätti Repolainen,
+    juoksi sitten kotiaan.
+    Vähäinen on palkka mainen,
+     ketun kiitos toisinaan!
+
+           Arvid Lydecken.
+
+
+
+
+KEVÄTLINTUJA.
+
+
+    Kevätlintuja ilmassa leijaa,
+    joka oksalla laulaen heijaa:
+     tirlit, tirlit, tit, tii!
+    Ken käsitti lintujen kielen,
+    kuka ymmärsi vienojen mielen?
+     Mitä lie: tirlit, tit, tii?
+
+    Joku tuumii: riemua pelkkää
+    koko metsä soipi ja helkkää:
+     tirlit, tirlit, tit, tii!
+    Mitä toinen riemuksi luulee,
+    siinä toinen kaihoa kuulee —
+     mitä lie: tirlit, tit, tii?
+
+    Se on kaikki, mit' aatella taidat,
+    ilot avarat, murheet kaidat:
+     tirlit, tirlit, tit, tii!
+    Se on keväin: »Terve!» ja »tule!»
+    ja syksyin: »Muistohos' sule!» —
+     Tirlit, tirlit, tit, tii!
+
+                Aune Krohn.
+
+
+
+
+KIILTOMATO.
+
+
+    Kiiltomato kukkasissa
+    loisti hiljaisuudessaan,
+    yli kedon tienohissa
+     tietämätön loistostaan.
+
+    Suloisesti tätä tähti
+    katsoi korkeudestaan;
+    kätköstänsä käärme lähti
+    myrkkyänsä valamaan.
+
+    Sääli madon surkeutta!
+    Miksi syyttä surmattiin? —
+    »Syyttä», sanoi käärme, »mutta
+     miksikä se loisti niin!»
+
+                  Muk. Kallio.
+
+
+
+
+KISSA.
+
+
+    Vieraita käkee!
+    Kissa ne näkee
+     virstan kahden takaa,
+    tuolta puolen hakaa,
+    sukii päänsä sileäksi,
+     pesee kääpät kiiltäväksi.
+
+    Olkoon myös
+    se sun työs,
+    että nähtäis kilttiseksi,
+     mamman muru siivoiseksi.
+
+                 Suonio.
+
+
+
+
+KISSA JA HIIRI.
+
+
+    Pieni kissanpoikanen
+    katsoi sillan reikiin:
+    »Hiiri, kuules hiironen,
+     tule tänne leikkiin!
+
+    Kumpi meist' on vikkelin,
+    sitä pitäis koittaa;
+    emä lupas rinkelin
+    sille, joka voittaa.»
+
+    Hiiri hupsu kovin on
+    ahne rinkelille;
+    jääd' ei malta loukkohon,
+    lähtee kilpasille.
+
+    Juosta vilisteltihin;
+    ensin kerkes hiiri.
+    Saiko palkaks rinkelin?
+     Ei — vaan paistin Miiri.
+
+                  Suonio.
+
+
+
+
+KISSA JA TYTTÖNEN.
+
+
+    Tyttönen:
+
+      Kissa, et kynsiä saa mua noin.
+      Käpäläs näinkö mä saada voin?
+      Kintaiss' ei saa neuloja käyttää.
+
+    Kissa:
+
+      Minkä sä vaadit, tahdon ma täyttää.
+      Muista vain, sin' et myöskään saa
+      kissaas noin kovin kouristaa.
+
+      Vieläkin kouristi tyttönen.
+      Kiusaa näin teki kissallen.
+      Kissa se kynsäsi uudestansa.
+      Vuosipa verta nyt virtanansa.
+      Aikomus ei paha kummankaan.
+      Ystävät olivat ainiaan.
+
+               Z. Topelius.
+
+
+
+
+KISSA KOKKINA.
+
+
+    Riens' aamulla Liisa torillen,
+    mutt kotona kissa poloinen
+    nyt herää aamu-unestansa
+    ja luulee seurassa olevansa.
+     »Miau, miau, hyvää huomenta!
+    Muistatko, Liisa, suurusta?
+    Ma nälkään näännyn, usko se vain,
+     kun eilen ruuatta olla sain.»
+
+    Vaan Liisa ei kuule, hän poissa on,
+    ja kovin on Missinen onneton.
+    Mut silmät kun oikein auki saa,
+    hän padan liedellä oivaltaa,
+     ja aate jättiläissuuruinen
+    nyt valtaa mielen Missisen:
+    »Ma pukeun Liisaksi paikalla
+     ja häärin emännän toimissa.»
+
+    Ja neitsyn huiviin ja hameesen
+    nyt pukeutuu herra Missinen,
+    ja padan etehen asettuu
+    niin arvokkaana kuin kuka muu:
+     »Mut täytyyhän kokin maistella
+    eik' ateriaansa pilata.»
+    Vaan kova onni! — jo kolkuttaa,
+     siis täytyy meidänkin lopettaa!
+
+                    Minna Krohn.
+
+
+
+
+KOIRANPENTU.
+
+
+    Voi, voi Renttu penikkaa,
+    tuota villiveitikkaa!
+     Virsun' on vienyt,
+    sukkani syönyt,
+    repi liinan repaleiksi, —
+     hameen kaiken kappaleiksi.
+
+    Oisit vaattees korjannut
+    kiltti-tyttösenä,
+    eip' ois Penttu tavannut,
+     kaikk' ois eheänä.
+
+                  Suonio.
+
+
+
+
+KORPPI JA KYYHKY.
+
+
+    Musta korppi kaarsi, kiersi, kaarsi korkealla,
+    kyyhkynen se kuherteli pienen lehden alla,
+    kurja korppi matki pienen kyyhkyläisen kieltä:
+     »älä pieni valko kyyhky pelkää korpin mieltä,
+    minä lensin leyhyttelin aamun maita kohti,
+    silloin aatos valkea mun siipiäni johti,
+    en ma janoo julmin juonin pienen linnun verta,
+    tahdon liitää matalalla rauhan suurta merta!
+     Sini-ilmain kuningas ma tahdon sulle olla,
+    kaikki riidat ratkaisen ma sulosovinnolla,
+    katsos, kuinka hiljainen nyt minulla on lento,
+     tule pienen lehtes alta, kyyhkyläinen hento!»
+
+    Pieni kyyhky kuunteli nyt ihastuen hetken,
+    sittenpä se virkkoi viimein: »tunnen korpin retken,
+    äänes petti, tunnen vanhan korpin kavalaksi,
+     koskaan ei oo korppi käynyt lumivalkeaksi,
+    kettu näkee ketun unta, korppi korpin unta,
+    ei oo rääky laulua, ei sysi ole lunta. —
+    Muistat ehkä kuinka kerran istuit lehdon puussa,
+    koikuit siellä koppavana juuston pala suussa,
+     tuli kettu, kehui ääntäs, silloin liikkui kieli,
+    juusto maahan putosi ja kettu juuston nieli;
+    mene ketun oppihin ja kuule sitä puustas,
+     voida laulu-ääntäsi, vie kettu voiteen suustasi»
+
+    Tuosta korppi typertyi ja ilmaa häijy halkoi,
+    koikkui luokse kumppaninsa, riitaa haastaa alkoi,
+    kumppani nyt kiihkoissansa nokki silmät päästä,
+     niin on korppi kavala, ei korppiakaan säästä,
+    sammui silmä, muuttui mieli mustemmaks kuin hiili,
+    mutta kyyhky lensi, liiti, mesimetsään piili,
+    lauloi kulta-kumppanilleen, lauloi poikasille
+     varoitellen lentämästä korppein kuuluville.
+
+                            Larin Kyösti.
+
+
+
+
+KOTIAHOILTA.
+
+
+    Jänis popsii ja nauraa,
+    pistää poskeensa kauraa.
+
+    Oikaises hiukan sääriä!
+    — Ei saa kaurassa hääriä!
+
+    Joutuipa hyvään vaaliin:
+    kaurasta lähti kaaliin.
+
+    Tuntee se metsäntutkija
+    jänis-jussin mutkia.
+
+    Poikanen pienenläntä,
+    onpas pystyssä häntä!
+
+    Voi, meni kuolonkitaan!
+    Suustansa repo ritaan!
+
+    Korppi sanoo:
+    »Kuiva luu! — ei suita suu!»
+
+    Harakka sanoo:
+    »Kas, kas, kas, — ei haisekaan!»
+
+    Varis sanoo:
+    »Syörään vaan! — Syörään vaan!»
+
+                  Valter Juva.
+
+
+
+
+KOTIOPETUSTA.
+
+
+    »Istu hiljaa, Vahtiseni,
+    koulua nyt pidetään!
+    Kuule, ota tarkka vaari,
+     älä rupee leikkimään!
+
+    Minä olen opettaja,
+    sinä olet oppilas.
+    Joko taidat läksys tarkoin?
+    Miten onkaan? Vastaapas!»
+
+    Pian kyllä Vahdillemme
+    asia on selvillä.
+    »Vou, vou» — hän nyt haukahtaapi,
+    Vahti osaa läksynsä.
+
+                      Pääskynen.
+
+
+
+
+KUKKO.
+
+
+    Kukko lensi liehui
+    padan reunallen;
+    katsoi sisällen,
+     lauloi: »Kuka kiehuu? Kuka kiehuu?»
+
+    Varo, kukko parka,
+    jos et kohta karkaa,
+    pannaan poikki kaula,
+    sitten saisit laulaa:
+     »Kukko kiehuu! Kukko kiehuu!»
+
+                    Suonio.
+
+
+
+
+KUKKO JA HANHI.
+
+
+    Kukko:
+
+      »Hanhi rukka,
+      punasukka,
+       miks noin rumast' astuskelet,
+      hompsis, hampsis haasottelet?
+      Katsos kuin mä kepsutan
+       vikkelästi viipoitan!»
+
+      Luikahti järveen,
+      hanhi toisten parveen,
+      liukkahasti liikkui,
+      kepeästi kiikkui,
+       niinkuin taivahalla kuu.
+
+    Hanhi:
+
+      »Tule tänne suurisuu!
+      Koeta täällä kepsutella
+       veden päällä viipoitella!»
+
+                     Suonio.
+
+
+
+
+KUKON JA KANAN SAUNA-MATKA.
+
+
+    Kukko ja kana meni kylpyyn
+    eikä ollut saunassa vettä.
+     Kana vettä kantamaan:
+    »Hyvä kaivo, kaunis kaivo,
+     anna mulle vettä.»
+    »En anna, en anna
+    ennenkuin tuot kiulun.»
+    Kana meni rengin luo:
+    »Hyvä renki, kaunis renki,
+     anna mulle kiulu!
+    Minä kiulun kaivolle,
+    kaivo mulle vettä.»
+    »En anna, en anna,
+    ennenkuin tuot rihmat.»
+     Kana meni piian luo:
+    »Hyvä piika, kaunis piika,
+    anna mulle rihmat!
+    Minä rihmat rengille,
+    renki mulle kiulun,
+     minä kiulun kaivolle, jne.»
+    »En anna, en anna,
+    ennenkuin tuot kengät.»
+    Kana meni suutarin luo:
+    »Hyvä suutari, kaunis suutari,
+     anna mulle kengät!
+    Minä kengät piialle,
+    piika mulle rihmat,
+    minä rihmat rengille,
+    renki mulle kiulun, jne.»
+     »En anna, en anna,
+    ennenkuin tuot harjaksia.»
+    Kana meni possun luo:
+    »Hyvä possu, kaunis possu,
+    anna mulle harjaksia!
+     Harjakset minä suutarille,
+    suutari mulle kengät,
+    minä kengät piialle,
+    piika mulle rihmat,
+    minä rihmat rengille, jne.»
+     »En anna, en anna,
+    ennenkuin tuot jauhoja.»
+    Kana meni myllylle:
+    »Hyvä mylly, kaunis mylly,
+    anna mulle jauhoja!
+     Minä jauhot possulle,
+    possu mulle harjaksia,
+    minä harjakset suutarille,
+    suutari mulle kengät,
+    minä kengät piialle,
+     piika mulle rihmat, jne.»
+    »En anna, en anna,
+    ennenkuin tuot jyviä.»
+    Kana meni pellolle:
+    »Hyvä pelto, kaunis pelto,
+     anna mulle jyviä!
+    Minä jyvät myllylle,
+    mylly mulle jauhoja,
+    minä jauhot possulle,
+    possu mulle harjaksia,
+     minä harjakset suutarille,
+    suutari mulle kengät,
+    minä kengät piialle, jne.»
+    »En anna, en anna,
+    ennenkuin tuot lantaa.»
+     Kana meni tunkiolle:
+    »Hyvä tunkio, kaunis tunkio,
+    anna mulle lantaa!
+    Minä lannan pellolle,
+    pelto mulle jyviä,
+     minä jyvät myllyyn,
+    mylly mulle jauhoja,
+    minä jauhot possulle,
+    possu mulle harjaksia,
+    minä harjakset suutarille,
+     suutari mulle kengät, jne.»
+    »En anna, en anna,
+    ennenkuin tuot havuja.»
+    Kana meni kuusen luo:
+    »Hyvä kuusi, kaunis kuusi,
+     anna mulle havuja!
+    Minä havut tunkiolle,
+    tunkio mulle lantaa,
+    minä lannan pellolle,
+    pelto mulle jyviä,
+     minä jyvät myllyyn,
+    mylly mulle jauhoja,
+    minä jauhot possulle,
+    possu mulle harjaksia, jne.»
+    »En anna, en anna,
+     ennenkuin tuot kirveen.»
+    Kana meni sepän luo:
+    »Hyvä seppä, kaunis seppä,
+    anna mulle kirves!
+    Minä kirveen kuuselle,
+     kuusi mulle havuja,
+    minä havut tunkiolle,
+    tunkio mulle lantaa,
+    minä lannan pellolle,
+    pelto mulle jyviä,
+     minä jyvät myllyyn,
+    mylly mulle jauhoja,
+    minä jauhot possulle,
+    possu mulle harjaksia,
+    minä harjakset suutarille,
+     suutari mulle kengät,
+    minä kengät piialle,
+    piika mulle rihmat,
+    minä rihmat rengille,
+    renki mulle kiulun,
+     minä kiulun kaivolle,
+    kaivo mulle vettä.»
+    »En anna, en anna,
+    ennenkuin tuot rautaa.»
+    Kana meni Ruotsiin,
+     Ruotsista sai rautaa,
+    raudan vei hän sepälle,
+     sepältä sai kirveen,
+    kirveen vei hän kuuselle,
+    kuuselta sai havuja,
+     havut vei hän tunkiolle,
+    tunkio antoi lantaa,
+    lannan vei hän pellolle,
+    pelto antoi jyviä,
+    jyvät vei hän myllyyn,
+     myllystä sai jauhoja,
+    jauhot hän vei possulle,
+    possu antoi harjaksia,
+    harjakset vei suutarille,
+    suutarilta kengät sai,
+     kengät hän vei piialle,
+    piika antoi rihmat,
+    rihmat kantoi rengille,
+    rengiltä sai kiulun,
+     kiulun kantoi kaivolle,
+    kaivolta sai vettä.
+    Veden kohta saunaan vei —
+     kukko oli kuollut kuumaan.
+
+                Kanteletar.
+
+
+
+
+KUU KIURUSTA KESÄÄN.
+
+
+    Hip hap huu,
+    nyt on huhtikuu!
+     Pakkas-herra kaiken yötä
+    ahkeraan on tehnyt työtä:
+    eilen pehmennyt
+     hank' on vahva nyt.
+
+    Lapsoset,
+    pojat, tyttöset,
+     tulkaa! Hangen kartiolla
+    hauska leikkisin' on olla
+    tuolla armaassa
+     aamuilmassa.
+
+    Nähkääs, voi,
+    kuin on kirkas koi!
+     Kiteet timanttien lailla
+    hohtaa metsissä ja mailla.
+    Sali kuninkaan
+     ei ole moinen vaan.
+
+    Kuulkaa, kuin
+    kiuru sulosuin,
+     kaukaa tullen, ensi kerran
+    kunniaksi luonnon. Herran
+    laulaa: »liriluu,
+     kesään on vain kuu!»
+
+           O. Vuorinen.
+
+
+
+
+KYYHKYNEN.
+
+
+    Kyyhkynen, kyyhkynen,
+    sinisiipi lintunen!
+    Voi jos oppisin ma sulta,
+    kyyhky kiltti, kyyhky kulta,
+     kuinka hyvänä voi olla,
+    siivost' elää sovinnolla.
+    Veljies kanssa et riitele,
+    sisariasi et kiusaile,
+    ystävin' aina te lentelette,
+     sovuss' jyviä jakelette,
+    ruikuttain,
+    kuiskuttain,
+     suuta vaan yhä muiskuttain.
+
+                  Suonio.
+
+
+
+
+KYYHKYNEN KYLPEE.
+
+
+    Kyyhkynen kylpee kuopassa
+    pienen lapsensa kanssa.
+     Tip, tip, tippuvi räystään suu;
+    tässäpä höyhenet puhdistuu!
+    Kuinka on hauska huuhdella
+     valkeita sulkiansa!
+
+    Kyyhkys-äiti se haastaa näin:
+    »Kuuleppa, lapsi kulta!
+     Maailman teitä kun taivaltaa,
+    tomuun helposti sulkansa saa,
+    nyt sua suojelen siivilläin,
+     tahrat huuhtelen sulta.
+
+    Kerta kun lennät maailmaan,
+    äitisi neuvoa muista:
+     varjele sulkasi valkeat!
+    Mutta jos joskus mustuvat,
+    ällös tahraan jättäkö vaan!
+     Huuhdo ja puhtahaks puista!»
+
+    Kyyhkyspoikanen loiskuttaa,
+    huuhtovi innoissansa.
+     Räystäät tippuvat, kirkas on sää,
+    kevään aurinko lämmittää,
+    kyyhkyjen siipihin heijastaa
+     puhtainta kultoansa.
+
+                Hilja Haahti.
+
+
+
+
+KÄELLE.
+
+
+    Luojan kukku, kultahelkka,
+    kuku mulle kultiasi,
+    kuku mulle, kuku muille,
+     kuku kaikelle kylälle;
+    kuku kultia kujille,
+    hopehia tanhuille,
+    vaskia vajojen päihin,
+   tien vierihin tinoja.
+
+            Kanteletar.
+
+
+
+
+LEIVO.
+
+
+    Laulava leivo,
+    virka sä vieno
+    mistäpä tiesi
+     tänne sun toi?
+    Tuoltako lensit
+    lehtojen nuorten,
+    järvien poikki?
+     Oi, sano, oi!
+
+    Näitkö sä siellä
+    neitosen nuoren
+    kaunihit kasvot
+     kuin sulo koi?
+    Sen sinisilmät,
+    hienoiset hiukset
+    näitköpä niitä?
+     Oi, sano, oi!
+
+    Istuiko impi
+    lähtehen luona,
+    josta hän kerran
+     kanssani joi?
+    Missä hän mulle
+    ruusuista rannan
+    seppelen solmi,
+     oi, sano, oi!
+
+    Kun sinä liitäin,
+    laulaen lensit,
+    tokko hän silmät
+     sinuhun loi?
+    Käskikö silloin
+    tänne sun tulla
+    tietoja tuomaan?
+     Oi, sano, oi!
+
+    Saitko sä kuulla
+    kultani äänen,
+    vieläkö virsi
+     suustahan soi?
+    Jospahan lauloi,
+    muistiko mua?
+    Lausuppa leivo,
+     oi, sano, oi!
+
+    Tyhjennä kaikki
+    tietosi mulle,
+    kerro nyt kuinka
+     kultani voi?
+    Ehkäpä armas
+    lie ikävästä
+    kuihtumaisillaan,
+     oi, sano, oi!
+
+         Olli Vuorinen.
+
+
+
+
+LEPO LEPO LEHMÄNI.
+
+
+    Lepo, lepo lehmäni!
+    Jopa löysin härkäni,
+    Kololahden, korvelta
+     Pajulahden lammilta.
+
+    Lepo, lepo lehmäni!
+    Jopa löysin härkäni,
+     Kiviniemen särkältä,
+    valkealta rannalta
+    horsmia syömästä,
+     kaisloja kaivamasta.
+
+          Kansanlaulu.
+
+
+
+
+LINNUNPESÄ.
+
+
+    Aukaise nokkasi,
+    äiti hyvä,
+    tässä on suuhusi
+     siemenjyvä.
+
+    Aurinko paistaa ja
+    käköset kukkuu.
+    Kauan ne poikaset
+    kuoressa nukkuu.
+
+    Ystävä armahin,
+    malta, malta:
+    kuuluu jo vikinä
+    kuoren alta.
+
+    Kohta on pieniä
+    täynnä pesä,
+    sitten se vasta
+    alkaa kesä.
+
+    Sitten ne alkaa
+    soittajaiset,
+    koivun latvassa
+     laulajaiset.
+
+         Immi Hellén.
+
+
+
+
+LINNUNPESÄ.
+
+
+    Pikku linnunpoikaset
+    huutaa ikävissään;
+    eihän näe pienoiset
+     emoansa missään.
+
+    Vaan jo tulee emonen,
+    aika toukka suussa;
+    torkkumasta löysi sen
+    tuolla tuomipuussa.
+
+    Siinä paisti mieluinen
+    koko talon väelle;
+    sitten juodaan kastehen
+    pisaroita päälle.
+
+    Riemuvirttä lauletaan,
+    että ilma soipi.
+    Äiti neuvoo poikiaan,
+    mitä suinkin voipi.
+
+    Vaan kun siivet kannattaa,
+    tulee temppu toinen;
+    maailmass' ei hauskempaa,
+     kuin on leikki moinen!
+
+    Lennetään läp' ilmojen;
+    sepä lysti retki!
+    Sitä katsoo ihaillen
+     kaikki ihmisetki.
+
+           Pääskynen.
+
+
+
+
+LINTUIN KÄRÄJÄT.
+
+
+    Köyhä mies ketoa kynti,
+     sekä kynti jotta kylvi,
+    kylvi kymmenen jyveä,
+    kynti kymmenen vakoa.
+     Siihen lintuja sikesi,
+    kasvoi paljon peipposia;
+     hakahti harakat siinä,
+    sekä närhit näppäsivät,
+    kävi sirkut sissimässä,
+     varpuset varastamassa.
+    Pajulintu palkulainen
+    äkättihin, keksittihin,
+    vievän viimeistä jyveä,
+    reunimaista reutoavan.
+     Nuorittihin, käärittihin,
+    pieksettihin, pyntättihin,
+    lyötihin, lytistettihin,
+    jaloin päällä pyörittihin;
+    vesi silmistä sirisi,
+     veri vaivaisen nokasta,
+    käräjihin käytettihin
+    laitettihin lain etehen.
+    Kurki, lintujen kuningas,
+    itse istui tuomariksi,
+     laklat lautamiehiksensä,
+    valamiehiksi varikset.
+    Kurki huuti kulkustansa,
+    kajahutti kaulastansa:
+     »Ootko ottanut jyviä
+    köyhän miehen kynnökseltä?»
+     Pajulintu palkulainen
+    siihen vastaten sanovi:
+    »Söin minä jyveä kaksi,
+     kovin äijä, kun on kolme.»
+
+    Kurki kulkkunsa kurotti
+    yli pöyän lausumahan:
+     »Kosk' oot ottanut jyviä,
+    käynyt, kurja, sissimässä
+     köyhän miehen kynnöksellä,
+    kynnöksellä, kylvöksellä,
+    niin ei saa sääliä varasta.
+     Tahi karvat karsitahan
+    tahi kaula katkotahan,
+     pää poikki järitetähän.»
+
+    Pääskyläinen, pieni lintu,
+    se lauloi laen rajasta:
+     »Varastat sinäkin, kurki,
+    otat otria oloksi,
+     rukihia mielin määrin,
+    kannat kaurankin jyviä.»
+    Kurki laski suuren kulkun,
+    parkasi pahan sävelen
+    pääskyselle pienimmälle:
+     »Oonko mie varastanunna
+    köyhän miehen kylvöksestä? —
+    Taian mie ilmankin eleä
+    köyhän miehen kylvöksettä;
+    lennän synkkähän salohon,
+     siellä riivin rikkahia,
+    katkon kaurahalmehia
+    tahi syön marjoja metsästä,
+    kaivan suolta karpaloita.»
+     Lausui pääsky, pieni lintu:
+    »Vaan minäpäs en varasta;
+    olen ihmisten ilona,
+     riemu kaiken ristikansan,
+    saattelen suven sanoman,
+     laitan päivän lämpimämmän.»
+
+               Kanteletar.
+
+
+
+
+LINTUJEN ÄÄNIÄ.
+
+
+    Kot, kot, sanoi kukko,
+    kun tuli vastaan ukko.
+
+    Kaa, kaa, sanoi kana,
+    kun teki suuren munan.
+
+    Kvaa, kvaa, sanoi varis,
+    kun lumi puista karis.
+
+    Ha, ha, sanoi harakka,
+    kun näki miehen selässä suuren taakan.
+
+    Kukkuu, kukkuu, sanoi käki,
+    kun ihmiset nukkui.
+
+    Kvit, kvit, sanoi pääsky,
+    kun kurki otti väskyn.
+
+    Tii, tii, sanoi tiainen,
+    kun tuli pakkanen.
+
+    Tiu, tiu, sanoi varpunen,
+    kun jäässä oli puun varpu.
+
+                Pääskynen.
+
+
+
+
+LINTUNEN IKKUNARUUDUN TAKANA.
+
+
+    Ken siellä nokkivi ikkunaan? —
+    »Avatkaa ikkuna hetkeks vaan.
+     On tuuli kylmä. On jäässä maa.
+    Ma kuolen kohta. En ruokaa saa.
+    Jos tupaan pääsen, mä tyydyn vähään,
+     vaikk' ortehen kaikkein pienimpähän.»
+
+    Ja lapset lintusen ottivat,
+    ja leipäns' sille he jakoivat.
+    Näin meni talvi. Mut lumi suli
+    ja kevät armas se taasen tuli.
+     Taas ruutuun nokkasi lintunen.
+    Ja surren laskivat lapset sen.
+    Pois pääsi se näin,
+    lens taivohon päin
+     ja lauleli luojaansa ylistäin.
+
+                Z. Topelius.
+
+
+
+
+LINTUSELLE.
+
+
+    Sanoppa laululintu,
+    selitä sirkkunen,
+     mitenkä niin sinulla
+    on rinta riemuinen!
+    Varahin aamusilla
+    iloisen äänesi
+    ma kuulen, iltasella
+     suloisen soittosi.
+
+    Pesäsi kyll' on pieni
+    ja tyhjä aittasi,
+    vaan yhtä kaikki ompi
+     iloinen mielesi.
+    Sä huolta huomisesta
+    et tiedä ensinkään,
+    jos pienintä palaista
+     ei eineheksikään.
+
+    On monta, joill' on aitat
+    eloa täynnänsä,
+    käsissä maat ja vallat
+     ja kruunut päässänsä;
+    mutt' aamuhetkin heiltä
+    ilo on kaukana,
+    sinä kun uuden päivän
+     alotat laululla.
+
+    On paljoa parempi
+    tok' onni ihmisen,
+    ja kuitenkin osaansa
+     on tyytymätön hän!
+    Hän saattaisi sinulta
+    hengenkin ottoa,
+    ja kuitenkin sä kiität —
+     hän moittii onnea.
+
+    Ah! miksipä hän aina
+    on niin nureksiva,
+    kun kaikki ansiotta
+     on saanut luojalta!
+    Ja miksi toisinansa
+    hän viel' isostelee.
+    Kun aina tyytymättä
+     yhä vajaelee!
+
+    Ah, laula, laula, lintu,
+    ylistä onneas!
+    En huokauksillani
+     seoita lauluas.
+    Tee vastakin pesäsi
+    liki piiloani
+    ja tyytymään opeta
+     mua myös osahani.
+
+           J.L. Runeberg.
+
+
+
+
+LUOJAN KUKKU.
+
+
+    Luojan kukku, kultahelkka!
+    Kuku mulle kultiasi,
+    kuku mulle, kuku muille,
+     kuku kaikelle kylälle;
+    kuku kultia kujille,
+    hopehia tanhuille,
+    vaskia vajojen päihin,
+     tien vierihin tinoja.
+
+    Luojan kukku, kultahelkka!
+    Kuku vielä kerta, toinen;
+     kuku meiän kuulijoita,
+    laita meiän laulajoita,
+    kuulijat kukalle kullan,
+    laulajat lehelle lemmen,
+    mie itse remorekehen,
+     virret väkkärän väkehen.
+
+                Kanteletar.
+
+
+
+
+MARAKATIN MARKKINAT.
+
+
+    Eräs musta marakatti
+    istui kerran kyyrylleen.
+    Halla pilkkanimi Matti
+    oil ja mieltä melkoiseen,
+          villityllä;
+          mutta kyllä
+
+    luiskahtivat longallensa
+    kairan laidat kallossaan,
+    kun hän otti ollaksensa
+    kauppamiesnä, kainu, vaan.
+          Hän jo myöpi,
+          myöskin syöpi.
+
+    Kirre, Mirre ruuan häässä
+    makeaisii ostelee;
+    kolmikulmahattu päässä
+    Musta Matti punnitsee.
+          Siinä myödään,
+          siinä syödään.
+
+    Oikein oiva-markkinoita
+    siten siinä pidetään;
+    pureskellaan prenikoita. —
+    Moiseen ryhtyi räihinään
+          Musta Matti
+          marakatti.
+
+              Tyko Hagman.
+
+
+
+
+MARJAPUUNI.
+
+
+    Iloisesti syksyn puussa
+    tilhit pihlajan marjoja syövät,
+    iloitsevat, leikkiä lyövät.
+    Miks'en minä voi iloita,
+     elämäni marjoja poimia?
+
+    Miksi mun täytyy vaipua, surra,
+    kivisiä, mustia marjoja purra?
+    Oliko laho mun marjapuuni?
+     Näinkö nyt saapuu syksykuuni?
+
+                   J. H. Erkko.
+
+
+
+
+MATKAKUMPPANIT.
+
+
+    »Miks vingut noin? Suus kiinni, irvihammas!»
+    sialle lihavalle lausui lammas,
+    kun sika huusi, koska väkisin
+     he kartanohon vietiin kumpikin.
+
+    Niin sika vastasi »Syyt' on huutaa mulla,
+    mikäpä hätä, veikko kulta, sulla?
+    Sa syliin joudut, villas keritään,
+     ja sitten vapahaks sa päästetään.
+
+    Ma raukka kelpaan teuraaks ainoasti
+    ja liikkiöks. Siis huudan haikeasti.
+    Ma annan lihani, sa villas vaan.
+     Jo huomenna ma paistiks leikataan.»
+
+                      Z. Topelius.
+
+
+
+
+MATKALAULU.
+
+
+    Varsa valkoharja
+    riennä, tiuku soi.
+    Kuudan hangen pinnan
+     helmin hopeoi.
+    Viime ruskon hehku
+    sammuu metsän taa.
+    Yksinäinen tähti
+     kaukaa kimmeltää.
+
+    Varsa valkoharja
+    riennä, kiire on.
+    Vie mun metsätieltä
+     tuttuun talohon.
+    Lumipeitehongat
+    nopsaan taakse jää.
+    Revontulten loimu
+     kaukaa kimmeltää.
+
+    Tuolta valot vilkkuu
+    kotiakkunan.
+    Näen loimutulet
+     takkavalkean.
+    Askel astu vielä,
+    portin eteen jää.
+    Varsa valkoharja,
+     saat jo levähtää.
+
+          Jukolan Juhani.
+
+
+
+
+MEHILÄINEN.
+
+
+    Keräelin mettä
+    vakkaani —
+     etsin sytykettä
+    takkaani —
+    takan luona talven kestän,
+    mesilläni nälän estän
+     itseltäin ja pojiltain —
+
+    Takan luona talvin
+    aattelen:
+     Herralt' yksin halvin
+    mettinen
+    elolleen saa suojan;
+    kiitokseni luoksi Luojan
+     siksi kernaan kannankin. —
+
+            Joulukontti.
+
+
+
+
+MEHILÄINEN JA KYYHKYNEN.
+
+
+    Purohon putos mehiläinen,
+    mut tuonpa huomas kyyhkyläinen.
+    Hän, surkutellen sydämestä,
+     lens' puuhun oitis nopeaan
+    ja pienen lehden lehväksestä
+    pudotti veteen noukallaan
+    lautaksi pikku-elävällen,
+     se että pääsis maalle jällen.
+
+    Kun sitten kerran kyyhkynen
+     lens' illall' lehdon siimeesen,
+    ja kukers' siellä iloksensa,
+    oksalla istuin yksinään,
+    niin metsämiespä pyssyään
+     ojensi, häntä tappaaksensa.
+    Mut siihen mehiläinen lensi,
+    ja käteen pistämähän ensi,
+    ett' tuntui kipeätä tekevän.
+    Pau! luoti lähti nyt — mut syrjähän.
+    Pelastuneena kyyhky lens! —
+                   Mun ystäväin!
+     Kas, hyvänteko palkitahan aina näin.
+
+                   A.M. Lenngren.
+
+
+
+
+MEHILÄISEN KOSTO.
+
+
+    Kasvoi kukka kankahalla,
+    mesikukka kaunoinen;
+    Tuli tyttö iltamalla,
+     taitti poikki pienoisen.
+
+    Näki metsämehiläinen,
+    miten murtui kukka nyt,
+    mistä ennen pörriäinen
+     oli mettä imenyt.
+
+    Tyttö pisti povellensa
+    mehiläisen kukkasen.
+    Mehiläinen pistimensä
+     pisti tytön poskehen.
+
+          Tyko Hagman.
+
+
+
+
+MENI AKKA METSÄÄN.
+
+
+      Meni akka metsään,
+    pukki tuli vastaan:
+    »Mene pukki kotiin!»
+     Ei pukki mennytkään.
+
+      Meni akka metsään,
+    tukki tuli vastaan:
+    »Lyöpä tukki pukkii! —
+    Pukki ei mene kotiin.»
+     Eipä tukki lyönytkään.
+
+      Meni akka metsään,
+    tuli tuli vastaan:
+    »Polta tuli tukki! —
+    Tukki ei lyö pukkii,
+    pukki ei mene kotiin.» —
+     Ei tuli polttanutkaan.
+
+      Meni akka metsään,
+    vesi tuli vastaan:
+    »Sammuta vesi tuli! —
+     Tuli ei polta tukkii,
+    tukki ei lyö pukkii.
+    Pukki ei mene kotiin.» —
+     Ei vesi sammuttanutkaan.
+
+      Meni akka metsään,
+    härkä tuli vastaan:
+    »Juopa härkä vesi! —
+     Vesi ei sammuta tulta,
+    tuli ei polta tukkii,
+    tukki ei lyö pukkii, jne.»
+     Eipä härkä juonutkaan.
+
+      Meni akka metsään,
+    nuora tuli vastaan:
+     »Lyöpä nuora härkää! —
+    Härkä ei juo vettä,
+    vesi ei sammuta tulta,
+    tuli ei polta tukkii, jne.»
+     Eipä nuora lyönytkään.
+
+      Meni akka metsään,
+    hiiri tuli vastaan:
+     »Pure hiiri nuoraa! —
+    Nuora ei lyö härkää,
+    härkä ei juo vettä,
+    vesi ei sammuta tulta, jne.»
+     Eipä hiiri purrutkaan.
+
+      Meni akka metsään,
+    kissa tuli vastaan:
+     »Syöpä kissa hiiri! —
+    Hiiri ei pure nuoraa,
+    nuora ei lyö härkää,
+    härkä ei juo vettä, jne.»
+     Eipä kissa syönytkään.
+
+      Meni akka metsään,
+    repo tuli vastaan:
+     »Syöpä repo kissa! —
+    Kissa ei syö hiirtä,
+    hiiri ei pure nuoraa,
+    nuora ei lyö härkää, jne.»
+     Eipä repo syönytkään.
+
+      Meni akka metsään,
+    koira tuli vastaan:
+     »Tapa koira repo! —
+    Repo ei syö kissaa,
+    kissa ei syö hiirtä,
+    hiiri ei pure nuoraa, jne.»
+     Eipä koira tappanutkaan.
+
+      Meni akka metsään,
+    susi tuli vastaan:
+     »Syöpä susi koira! —
+    Koira ei tapa repoo,
+    repo ei syö kissaa,
+    kissa ei syö hiirtä, jne.»
+     Eipä susi syönytkään.
+
+      Meni akka metsään,
+    karhu tuli vastaan:
+     »Tapa karhu susi! —
+    Susi ei syö koiraa,
+    koira ei tapa repoo,
+    repo ei syö kissaa,
+    kissa ei syö hiirtä,
+     hiiri ei pure nuoraa,
+    nuora ei lyö härkää,
+    härkä ei juo vettä,
+    vesi ei sammuta tulta,
+    tuli ei polta tukkii,
+    tukki ei lyö pukkii,
+     pukki ei mene kotiin.»
+
+    Siitä:
+
+      Karhu tappamaan sutta,
+    susi syömään koiraa,
+     koira tappamaan repoo,
+    repo syömään kissaa,
+    kissa syömään hiirtä,
+    hiiri puremaan nuoraa,
+     nuora lyömään härkää,
+    härkä juomaan vettä,
+    vesi sammuttamaan tulta,
+    tuli polttamaan tukkia,
+    tukki lyömään pukkia,
+     pukki juoksemaan kotiin.
+
+     Sillä sai akka pukkinsa kotiin.
+
+                  Kanteletar.
+
+
+
+
+MIELEVÄ MIRKKA.
+
+
+    Kas minull' on mielevä Mirkka.
+    Se vasta on vikkelä.
+    Se hyppelee ihan kuin sirkka,
+     on kiltti ja ketterä.
+
+    Se siskojen kerällä leikkii,
+    on turvana kartanon;
+    kun karjahan lähtevi Heikki,
+     yks' kaks' se jo perässä on.
+
+    Se istuu, se antaa kättä,
+    ja silloin se nisusta saa.
+    — Kas, moisetta ystävättä
+     ois leikkikin vaikeaa.
+
+          Hilda Käkikoski.
+
+
+
+
+MIKON ONKIRETKI.
+
+
+    Mikko-pojan mieli palaa
+    päästä pyytämähän kalaa.
+    Sää on kaunis, tyyni, kuuma,
+     nyt siis toimeenpannaan tuuma;
+    — onkimadot, vapa, siima,
+    niiden laittoon menee tiima.
+    Kontti selkään, pieksut jalkaan —
+     sitten onkimatka alkaa.
+
+    Näin hän saapuu järven rantaan,
+    konttiaan ei rupee kantaan,
+    heittääpi sen mielellänsä
+     väsyneenä selästänsä.
+    Tässä onkin oiva' paikka,
+    saattais saada lohen vaikka.
+    Täytyy olla varuillansa
+     onkineuvojensa kanssa.
+
+    Heipä hei! Jo veti umpeen!
+    Mikko sai jo yhden lumpeen.
+    Vahinko ei mitään haittaa,
+     ongen uudestaan hän laittaa,
+    syöttiin ensin sylkäiseepi,
+    katseleepi, käänteleepi,
+    heittää siiman minne yltää,
+     rannasta noin kolme syltä.
+
+    Hetki vain niin tormas tuolta
+    lumpehikon takapuolta
+    onkeen lohi, suuren suuri,
+     Mikon mittainen on juuri,
+    vapa notkuu, siima sinkuu,
+    niinkuin vihuri se vinkuu.
+     Veden pintaan päästyänsä
+    lyöpi lohi pyrstöllänsä,
+    järven pohjaan potkaiseepi,
+    Mikko vastaan taisteleepi,
+    hevillä ei hellittäisi,
+     saaliittahan silloin jäisi.
+
+    Mikko parastansa koittaa,
+    mutta lohi hänet voittaa,
+    vetää järveen mukanansa
+     urhoollisen onkijansa,
+    jok' ei vapaa irti päästä,
+    ei ees henkeänsä säästä.
+    Näin he perävilkkaa uivat,
+     kauas, kauas kulkeutuivat.
+
+    Mikkoa näin johtaa lohi
+     toisten onkimiesten ohi.
+    Nämät lähtee venheen kanssa,
+    suuri haavi mukanansa,
+     Mikon kohta saavuttavat,
+    haaviin hänet pelastavat!
+    Lohenkin he haaviin samaan
+    onnistuvat lippoamaan.
+    Siinä toisensa he tapaa,
+     Mikko yhä pitää vapaa.
+
+    Venhe rantaan lasketahan,
+    Mikon kalaa ihaillahan.
+     Kyllähän nyt poika kastui,
+    vaan kun kotiansa astui,
+    uljas lohi selässänsä,
+     mies on Mikko mielestänsä.
+
+               R. Calamnius.
+
+
+
+
+MIKSI KANA KENGITTÄ?
+
+
+    Lapsikullat, kuulkaa
+    sangen soma juttu!
+     Kotikana kaunis,
+    teidän hyvä tuttu,
+     hiidessänsä mietti
+    suutarille mennä
+    lapatossut teettää,
+    kun ei siivet lennä.
+    Niinpä kana tossut
+     suutarilta tilas,
+    mutta oppipoika
+    kengät pahoin pilas.
+    Hänpä tossut laittoi
+    puristavat aivan,
+     varpaat vallan taittoi,
+    tuotti tuskan, vaivan.
+    Siitäpä nyt kiltti
+    kotikana suuttui,
+    suutarinsa kanssa
+     puhumahan puuttui,
+    mestaria miltei
+    vihoissansa sätti,
+    kelvottomat kengät
+    tekijälle jätti.
+     Siksi hän nyt aina
+    avojaloin astuu,
+    kengät eivät paina,
+     varpaat vaikka kastuu.
+
+             Muk. A. K.
+
+
+
+
+MINNE JOUDUIN?
+
+
+    Särkyi ahdas asunto —
+    minne jouduin juuri?
+    Loppui pitkä pimento.
+    Kuultavainen kammio,
+     et sä ollut suuri.
+
+    Täällä silmät huikenee,
+    eikä tunnu laita.
+    Ihan sydän vapisee,
+    emo vielä napisee,
+     ettei ruoka maita.
+
+    Mailma uusi ihmeineen
+    loistaa silmään nuoren.
+    Katsoo sitä kummakseen:
+    — luulin kaiken mahtuneen
+     kananmunan kuoreen.
+
+              Immi Hellén.
+
+
+
+
+MINÄ OLEN KISSA...
+
+
+    Minä olen kissa ja sinä olet hiiri,
+    käydään me leikkisille,
+    ja Pekka on pikkuinen perunarotta
+     ja myyränpoikanen Ville.
+
+    Näin leilein on alku — ja sukkela loppu:
+    hei, kiinni ma koppasin sinut!
+    — Nyt tunnetko rotta ja huomaatko hiiri
+     jo kissanpojaksi minut...
+
+                       Valter Juva.
+
+
+
+
+MIRRIEN MARSSI.
+
+
+    »Mars ja mars ja mahdikkaasti
+    sotilasten lailla,
+    pystypäisnä ponnekkaasti
+     mahtimiesten; mailla.»
+
+    Mirrit siinä mittelevät
+    kilvan voimiansa,
+    koettelevat kopeasti
+     käydä koiran kanssa.
+
+    Mut kun koira kuulla saapi
+    mirrin sipsutusta,
+    antaa kohta aikalailla
+     heille opetusta.
+
+            Joulukontti.
+
+
+
+
+MIRRI SAIRASTAA.
+
+
+    Ikävän nyt kerron teille:
+    Mirri sairastui.
+    Paha oli ilma eilen,
+     Mirri vilustui.
+    Nyt on vaivaa ystävällä,
+    — senhän arvaatkin —,
+    kaikk' on kipeänä hällä,
+     nenä, varpaatkin.
+
+    Minä häntä silittelin,
+    ei hän hyrrännyt.
+    Maidollakin mairittelin,
+     ei hän lerkkinyt.
+    Äiti makkarankin osti,
+    Mirrilleni vei;
+    Mirri päätänsä vaan nosti,
+     sanoi: »kiitos, ei!»
+
+    Viimein isän tohvelihin
+    Mirri löysi tien;
+    kävi siihen kyyryksihin
+     ystäväni pien'.
+    Ss, ss, lapset, hiljaa aivan,
+    antaa maata vain.
+    Uni huomiseksi vaivan
+     poistaa pienoltain.
+
+          Samuli Suomalainen.
+
+
+
+
+MOPPE.
+
+
+    Moppe osaa istua,
+    kun käskyn sille antaa.
+     Moppe osaa koriakin
+    hampaissansa kantaa,
+     Moppe osaa seisoa
+    ja kävellä kuin herrat,
+    Moppe panee »moksista»
+    myös monen monet kerrat.
+    Moppe osaa mainiosti
+     kissojakin ajaa,
+    kaikista ei Moppe pidä
+    luvallista rajaa.
+    Joskus kesäkuumalla
+    käy Mopen matkat veteen.
+     Moppea ei hidasta,
+    jos sattuu aita eteen.
+    Moppe osaa iloita
+    ja Moppe osaa surra,
+    joskus Moppe tuhma on
+     ja saattaa silloin purra.
+    Hyökkää tiellä kulkijaan
+    ja repii housut takaa.
+    Toruja kun siitä saa,
+     niin häpeissänsä makaa.
+
+           R. Calamnius.
+
+
+
+
+MUSTI.
+
+
+    Musti haukkuu »hau, hau, hau!» —
+    »Mitäs, Musti, haukut?
+     Miks näin ulos karkaat?
+    Tulikohan varkaat?
+    Näetkö tuolla ryöväreitä,
+     jotka rosvoaisi meitä?»
+
+    Musti haukkuu »hau, hau, hau!»
+    Sitä Musti haukkuu:
+     Metsässä käy »piu, pau, pau!»
+    pyssyt yhä paukkuu.
+    Siell' on pappa ampumassa,
+    Hallin kanssa jahtaamassa,
+    Musti menis kanssa,
+     vaan ei jouda viraltansa.
+
+                 Suonio.
+
+
+
+
+MUUTTOLINTUJEN LAULU.
+
+
+    Suomehen! Suomehen kiiruhtakaamme!
+    Siellä me rauhassa elellä saamme;
+    kiiruusti vaan
+     Hämehen metsiin taas asumaan!
+
+    Siellä ei kylmästä, ruuasta huolta,
+    kaikki kun pitävät henkemme puolta;
+    riemuiten vaan,
+     siellä, kun ennen, taas laulellaan.
+
+    Rauhassa siellä sitt' pesiä tehdään,
+    missäpä poikaset kohta jo nähdään;
+    tirilirlirlii!
+     Lapsia Suomen he kiittävi.
+
+    Riemusta rintamme raikkaasti soipi,
+    mielemme kiittävi luojaa min voipi;
+    eläköhön,
+     jäsen ken on kevät-yhtiön!
+
+             E. Törmänen.
+
+
+
+
+MÄ, MÄ, MÄÄ!
+
+
+    Mä, mä, mää,
+    raukka pässinpää!
+     Kesän villat kantaa,
+    syksyin poijes antaa,
+    talveks ilman jää.
+    Mä, mä, mää,
+     raukka pässinpää!
+
+    Tules tänne, lammas kulta,
+    saatpa leipäpalan multa.
+     Sitten otan hiukan villaa,
+    siitä kudon töppöset,
+    niin on jalat lämpöiset
+     meidän pienoisilla.
+
+                 Suonio.
+
+
+
+
+NASKU, NASKU PORSAHAT.
+
+
+    Nasku, nasku porsahat,
+    kiiruhusti tulkahat!
+    Kaukaloss' on teille ruokaa,
+     soppaa makeaista juokaa!
+    Mut voi missä ryökäleet,
+    oletten taas rypeneet?
+     Kärs' on sontalapio,
+    sorkat savilusikkana,
+     liasta myös saparo
+    kahta vertaa paksumpana.
+     Hys, hys, vetehen,
+    tuonne pihalampehen!
+    Ensin pitää puhdas olla,
+     sitten vasta syömään tulla.
+
+                  Suonio.
+
+
+
+
+ORAVAN JÄLJILLÄ.
+
+
+    Ja orava se hyppeli varvullaan
+    ja keinutti syntymäpuuta,
+     sen hyppyset käpyä käänteli
+    ja se irvisti vasten kuuta.
+    Lie harvoin niin iloista oravaa,
+    no, hypsis ja ropsis, se hyppeli vaan,
+     ja keinutti syntymäpuuta.
+
+    Se oli niin kelveä kerkillään,
+    ja se latvalta latvalle loikki,
+     tuli vastaan joki, sepä kaarnallaan
+    pois souteli lahden poikki,
+    ja punainen häntä oli purjeenaan,
+    no, hypsis ja ropsis, se hyppeli vaan
+     ja latvalta latvalle loikki!
+
+    Yksi kulkija näki sen polullaan:
+    »mikä kirjava kiire on sulla?»
+     »Tytär myötäjäisiä tarvitsee,
+    oma eukko ja tupa on mulla!
+    Lie harvoin niin iloista oravaa,
+    no, hypsis ja ropsis, ma hyppelen vaan,
+     ja kirjava kiire on mulla!»
+
+    Ja se kulkija hyräili kulkeissaan,
+    eikä ilolta voinut muuta,
+     hän murensi leipänsä linnuille
+    ja naureli vasten kuuta.
+    Lie harvoin niin iloista kulkijaa,
+    hän kulki, kulki ja hyräili vaan,
+     eikä ilolta voinut hän muuta.
+
+                Larin Kyösti.
+
+
+
+
+ORAVAN PESÄ.
+
+
+    Kas, kuusen latvassa oksien alla
+    on pesä pienoinen oravalla,
+    sen poikaset siinä ne leikkiä lyö
+     ja pikku hampahin siementä syö.
+
+    On siinä vehreä, vilpoinen katto
+    ja naavoista lämpöinen lattiamatto
+    ja pikkuruikkuiset ikkunat
+     ja vuoteena sammalet vihannat.
+
+    Kun talven tuulet ne metsässä laukkaa,
+    ja lumet lentää, ja pakkanen paukkaa,
+    niin oravan pesässä pienoinen pää
+     se ikkunan reiästä pilkistää.
+
+    Ja kuusonen tuutivi tullessa ehtoon
+    siell' oravan poikaset tuttuhun kehtoon.
+    Ja elämä heillä on herttaisaa,
+     kun kuusen latvassa keinua saa.
+
+                 Immi Hellén.
+
+
+
+
+OSAATKO LUKEA?
+
+
+    Osaatkos lukea, armas Tuttu?
+    Tässä on koirasta hauska juttu:
+    kuinka se osasi kättä antaa,
+     osasi äidin koria kantaa,
+    kuinka se ain' oli lasten myötä,
+    kuinka se valvoi monta yötä,
+    pitäen talosta tarkkaa huolta. —
+     Lueppas kaikki, Tuttuni, tuolta.
+
+    Mutta niin ainakin uskon minä:
+    se koira on ollut juuri kuin sinä.
+
+                   Immi Hellén.
+
+
+
+
+PAIMENEN LAULU.
+
+
+    Täällä koira karjoineen,
+    täällä karja kelloineen,
+    hui, huhu huu!
+     Täällä nurmi ruohokas,
+    aho, mäki marjakas,
+    hui, huhu huu,
+     korpi kajahuu!
+
+    Salot suuret salini,
+    mätäs pieni pöytäni,
+    hui, huhu huu!
+     Eväskontti aittani,
+    lähde kaljakannuni,
+    hui, huhu huu,
+     korpi kajahuu!
+
+    Tyynet lehdot leikkini,
+    linnut soittoseurani,
+    hui, huhu huu!
+     Joutohetket juhlani,
+    Luojan luonto pappini,
+    hui, huhu huu,
+     korpi kajahuu!
+
+          J.H. Erkko.
+
+
+
+
+PALVELIN MINÄ RIKASTA MIESTÄ.
+
+
+      Palvelin ininä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä kukon palkastani;
+     kukko sanoi kukkuluuraa.
+
+      Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä kanan palkastani;
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+      Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä kissan palkastani;
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+      Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä koiran palkastani;
+           hau minun koirani,
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+      Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta
+    sain minä sian palkastani;
+           röh minun sikani,
+           hau minun koirani,
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+    Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä uuhen palkastani;
+           mää minun uuheni,
+           röh minun sikani,
+           hau minun koirani,
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+    Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä vuohen palkastani;
+           myy minun vuoheni,
+           mää minun uuheni,
+           röh minun sikani,
+           hau minun koirani,
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+    Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä lehmän palkastani;
+           muu minun lehmäni,
+           myy minun vuoheni,
+           mää minun uuheni,
+           röh minun sikani,
+           hau minun koirani,
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+    Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä härän palkastani;
+           möö minun härkäni,
+           muu minun lehmäni,
+           myy minun vuoheni,
+           mää minun uuheni,
+           röh minun sikani,
+           hau minun koirani,
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+    Palvelin minä rikasta miestä,
+    rikasta miestä ja viisasta,
+    sain minä oriin palkastani;
+           ju minun oriini,
+           möö minun härkäni,
+           muu minun lehmäni,
+           myy minun vuoheni,
+           mää minun uuheni,
+           röh minun sikani,
+           hau minun koirani,
+           nau minun kissani,
+           kai minun kanani,
+    kukko sanoi kukkuluuraa.
+
+            Kanteletar.
+
+
+
+
+PEIPPO.
+
+
+    »Oi peippo, pieni lintusein,
+    suloinen sydänkäpysin,
+    miks multa poies lensit?
+     Ma talven kaiken syötin sun,
+    vaan kevään tullen jätit mun,
+     ja kohta metsään riensit.
+
+    »Siit' on nyt suru mielessäin
+    kun uskoton sä olit näin
+    paraalle ystävällen.» —
+     Samassa tytön korvihin
+    liverrys vieno kuuluikin,
+     jo tuli peippo jälleen.
+
+                 Suonio.
+
+
+
+
+PERHOSEN SATU.
+
+
+    Pieni perho, lippiäinen,
+    kaiken talvea nukkui,
+    maailmast' ei välittännä,
+     se jos kesti tai hukkui.
+
+    Toki kevät perhosenkin
+    nosti, nukkuvan, pienen,
+    riemun tunnossa se virkkoi:
+    »Missä kummassa lienen!»
+
+    Päivä ikkunasta paistoi,
+    ulos perhonen tahtoi.
+    Vasten ruutua se lensi —
+    minkä sille se mahtoi?
+
+    Seinät vahvat vartioivat,
+    niit' ei särkeä voinut;
+    yöt ja päivät kaipausta
+    perho parka on soinut.
+
+    Kerran iltasella lamppu
+    tuvan pöydälle tuotiin,
+    vapautta ylisteltiin,
+    valonmaljoja juotiin.
+
+    Perho lampun luona liiti,
+    sepä vast' oli mieleen!
+    Mutta kiihkossa hän kiiti
+    aivan liekkien kieleen.
+
+    Perho innostuikin siitä,
+    ja sen huimaus voitti!
+    Valon lampussa hän löysi,
+    siihen rynnätä koitti.
+
+    Raukan siivet korventuivat,
+    paloi pienoisen rinta.
+    Kallis onkin maailmassa
+     valon voittojen hinta.
+
+           J. H. Erkko.
+
+
+
+
+PESÄÄNSÄ SUOJAAVA LINTU.
+
+
+    Tästä käy sun kotis' tie,
+    — älä vie, älä vie!
+    Laulan kerran kesässäni,
+    nyt on pojat pesässäni,
+     — älä vie, älä vie!
+
+    Iloisemmin laulu sois,
+    — mene pois, mene pois! —
+    pojat huutaa, jyvä mull on,
+    koti myöskin hyvä sull on,
+     — mene pois, mene pois! —
+
+    Puute puuss' on ruoka maass',
+    — tule taas, tule taas!
+    Kun on kirsi kireillänsä,
+    kun on virsi vireillänsä
+     — tule taas, tule taas! —
+
+           Larin Kyösti.
+
+
+
+
+PIENI KALA.
+
+
+    »Äiti kulta», sanoi kalanen,
+    »katso tuolla pieni matonen!
+    Nälkä vaivaa, saanhan mennä vaan
+     tuota ilmiötä katsomaan?»
+
+    »Pyhä viattomuus!» kirkasi
+    äiti hämmästyen, »lapseni,
+    matonen on koukkuun hirveään
+    pantu terävyyttä peittämään.»
+
+    Mutta nuori herra kalanen
+    oli hurja, yksinkertainen;
+    huolimatta äidin sanoista
+    katsomaan hän läksi matoa.
+
+    Tämän ympärillä leikki hän,
+    loipa katseen siihen mielivän.
+    »Mitä turhaa», mietiskeli vaan,
+    »koukkua en näe laisinkaan!»
+
+    Jopa uiskenteli likellä:
+    »Nykäsempä häntä leikillä.»
+    Ja hän puree — mutta onneton!
+    Läväissyt jo huulen koukku on.
+
+    Voimat vaipuu vaipumistansa,
+    ja hän vaikeroitsee tuskissa:
+    »Äiti kulta, kun en totellut!
+     Jo on pian elon' loppunut.»
+
+                 Pääskynen.
+
+
+
+
+PIKKU JUTTU.
+
+
+    01' kerran metsässä mökki
+    ja siin' asui tyttönen,
+    ja tyttösell' oli kana
+     ja kissakin pikkunen.
+
+    Ol' kissan kaulassa kello
+    ja jalassa saappahat,
+    ja saappahiss' oli varret
+    ja oikeat anturat.
+
+    OI' kanalla kaulaliina
+    ja nokkela nuttukin —
+    ja marssia kana taisi
+    ja nokkia sievimmin.
+
+    Ja kerran iltasella
+    tuo kana ja kissanen
+    ne läksivät — minne ja mihin,
+     kas, sitä tiedä en.
+
+               Alli Nissinen.
+
+
+
+
+POIKA JA KOIRA.
+
+
+    Poika:
+
+      »Tule koirani pieni nyt herrasi luo,
+      Mun opettaa istumahan sua suo!»
+
+    Koira:
+
+      »Joko oppisin piennä niin taitavaks'
+      Opin voisinhan lykätä tuonnemmaks'!»
+
+    Poika:
+
+      »Ei, koirani, nyt opin parhaan saa,
+       se myöhemmin on ylen vaikeaa!»
+
+      Ja koirapa pien' pian oppia alkaa,
+      voi astua käyttäen kahta jalkaa,
+       se istuu myös ja se sukeltaa veteen,
+
+      kalun kaivatun kantaa käskijän eteen.
+      Opin tuostapa poikanen ottaa ties,
+       sukes myös hänest' oiva ja viisas mies.
+
+                      Muk. A. Rytkönen.
+
+
+
+
+PÄÄSKYNEN.
+
+
+    Pääskynen,
+     piiskunen,
+    sinisiipi,
+    valkorinta,
+     laulelija,
+    lirputtaja,
+     lentelijä,
+    liitelijä,
+    ilomieli,
+     kaunokieli,
+    teki pesää
+    alkukesää
+    reunamalle,
+    katon alle.
+     Sinne muni
+    munasensa,
+    siellä hautoi
+    poikasensa;
+    pojat lensi
+     ilman teille,
+    iloks' meille!
+    Katselimme,
+    kuuntelimme,
+    iloitsimme,
+     riemuitsimme.
+    Mutta tuolla,
+    syksyn puolla
+    pois ne lensi,
+    kauas ensi
+     kaikki tyyni —
+    Hyristivät,
+    pyristivät
+    siipiänsä
+    lähteissänsä;
+     hyvästi näin
+    jättelivät,
+    pientä päätä
+    nyökkäsivät. —
+    Mutta taaskin
+     kevähällä,
+    lämpimällä
+     pääskysemme,
+    piiskusemme
+    saapuu tänne
+     iloksemme.
+
+         Alli Nissinen.
+
+
+
+
+PÄÄSKYSELLE.
+
+
+    Et silloin, pieni pääsky,
+    sä laula riemuiten,
+    kun meill' on kylmä talvi
+     ja maa on valkoinen —
+
+    — — vaan silloin Niilin luona
+    sä surren oksalla
+    siipeesi peität pääsi ja
+     — näät unta Suomesta.
+
+            J. Mustakallio.
+
+
+
+
+PÄÄSKYSELLE.
+
+
+    Oi pääsky, lintu pienoinen,
+    sä riemurinta, kaunoinen!
+    Jo taasen riensit Pohjolaan,
+     jo taasen löysit meidän maan.
+
+    Oi, tuttu mulle vanhastaan!
+    Sun ääntäs taas ma kuulla saan;
+    noh, terve, terve tultuas,
+    sä ystäväni armias!
+
+    Sä kaunokieli, kultasuu!
+    Oi, kuinka laulus luonnistuu,
+    kun lennät ilmass' liehuten
+    ja riemuvirttä veisaten.
+
+    Min vuoksi, pääsky, Pohjolaan
+    sä riennät? Oi, sä riennät vaan
+    sen kauneutta katsomaan,
+    sen ihanuutt' imehtimään!
+
+    Sen saaret, salmet, laaksolot,
+    sen kuusikot, sen koivikot,
+    sen kukkaset koreudessaan, —
+    et löynne, pääsky, vertojaan!
+
+    Sen taivas ehtookullassaan,
+    sen aamurusko loistossaan,
+    ne toi sun, pääsky, Pohjolaan,
+    ne sai sun tänne lentämään.
+
+    Sun Pohjolassa, herttainen,
+    on rakastella rauhainen;
+    sun tääll' on lysti ollakses
+     ja armas aikaellakses.
+
+                F.P. Kemelli.
+
+
+
+
+PÄÄSKYSET SAAPUVAT.
+
+
+    Lapset laulavat:
+
+      Te pienet linnut, te pitkäsiivet,
+      te jälleen riennätte pohjolaan.
+      On Niili kaunis ja seutu lämmin,
+       miks ette viihtyne kuitenkaan?
+
+      Te pienet linnut, te mustat linnut,
+      te vanhat tutut, on pitkä tie,
+      ja vaarat väijyvät matkallanne.
+       Mi outo voima taas tänne vie?
+
+      Pääskyset laulavat:
+      Kun koivu kukkii ja tuomi tuoksuu,
+      kun taivas siintää ja ilma soi.
+      Kun käki kukkuu ja laine laulaa,
+       ei kukaan viipyä kauan voi.
+
+      Kun kevätkielojen kellot kutsuu,
+      ja tuuli keväiset viestit tuo,
+      me riemuin riennämme syliin Suomen,
+       se yksin kodin ja onnen suo!
+
+                      Arvid Lydecken.
+
+
+
+
+RAKKI JA METSÄKOIRA.
+
+
+    Rakki:
+
+      Pakkasessa en juoksis vaan,
+      Jos noin huonoa muonaa saan.
+
+    Metsäkoira:
+
+      Pirtiss' en minä viitsi maata.
+      En makeaisia kerjätä saata.
+
+    Rakki:
+
+      Maaten on elo huoleton.
+
+    Metsäkoira:
+
+      Metsiä juoksen, se riemuni on.
+
+      Koira se metsiä juoksee vaan,
+      raitis ja terve on ruumiiltaan.
+       Rakkipa ain' oli vaan kotonansa,
+      maata sai yhä rauhoissansa,
+      haukkui kaikkia penkiltään.
+       Niin lihavuuttahan kuoli hän.
+
+                     Z. Topelius.
+
+
+
+
+RIIKINKUKKO.
+
+
+    Rii, Rii, Riikinkukko
+    ylpeänä tipsutteli,
+    tupsutteli pihamaalla,
+     joukot huusi kukon tiellä:
+    Rii, Rii, Riikinkukko,
+    kaunis, kaunis Riikinkukko,
+    uljas kukko, rikas kukko.
+     Tuli vastahan Haikara.
+
+    Hoi, Hoi, Hoikkasääri,
+    hoi, hoi, kukko huusi,
+    väisty tieltä, korjaa koipes
+     hoikat koipes, laihat luusi!
+
+    Rii, Rii, Riikinkukko,
+    vastaa hiljaa Hoikkasääri,
+     sinulla lie pihamaasi,
+    mulla laaja taivaan ääri.
+    Mielelläni riennän sinne,
+    taakse taivaanrannan, minne
+     konsanaan et seuraan lennä.
+
+    Raukka, raukka Riikinkukko
+     sinne vain et ennä!
+
+           Arvid Lydecken.
+
+
+
+
+RUISRÄÄKKÄ.
+
+
+    Ruisrääkkä niityll' laulaa lauluaan;
+    kuin joku vetäis taskukelloaan
+    sen ääni soi, kun ilta hämärtyy,
+     yöpuullaan kun jo nukkuu pieni pyy.
+
+    Ruisrääkkä mittaa illan hämärää,
+    ruisrääkkä uinuu, nuokkuu tähkäpää,
+    ruisrääkkä kehrää sala-ääniään
+     ja nukkuu omaan ääneen käheään.
+
+    Ruisrääkkä, luonnon salaperäisyys,
+    se on kuin kesäillan ikävyys,
+    kun yksin kuljet rantakäytävää
+     ja mietit elämätä jäytävää.
+
+    Ruisrääkkä, ennelintu elokuun,
+    sun soittos loihtii kummaan haaveiluun
+    niin yksitoikkoiseen ja ikävään
+     kuin suru itkis alla tähkäpään.
+
+                 Larin Kyösti.
+
+
+
+
+SAKSANHIRVET.
+
+
+    Katso, tuolla tammistossa,
+     lehtisuojan pimennossa,
+    hirvilauma norea
+    liikkuu, kaunis, sorea!
+     Johdattaapi parveansa
+    hirvitaatto, sarvillansa
+    suurilla hän komeilee,
+    juhlallisna astelee.
+    Mutta keveinä kuin tuulet,
+     että varjoiks heitä luulet,
+    naarashirvet hienoiset
+    sekä vasat pienoiset
+    pujahtavat metsän teillä
+    korven läpi. Katso, heillä
+     päät on sievät, sarvettomat,
+    jalat kepeät ja somat.
+    Näin he iloisina vaan
+    elää vapaudessaan.
+    Hirvi-kansa, älä heitä
+     metsän rauhaisia teitä,
+    halullisna pyrkien
+    ruohoiselle niityllen.
+     Siellä metsätorvi pauhaa,
+    häiritseepi luonnon rauhaa,
+    siellä pyssy paukahtaa,
+     kuolon sulle valmistaa.
+
+               Pääskynen.
+
+
+
+
+SAMMAKKO.
+
+
+    Sammakko näki härjän. Mitä tapahtuu?
+    Kateudesta sen pöyhkän sydän ahdistuu.
+    Minäkö suuruudess' en härkää voita?
+     noin huutaa nyt tuo kurjin elukoita,
+    ja kääntyy, tuulta vasten suu,
+    ja pullistuu ja pullistuu,
+    niin että vihdoin halkee, koito.
+     Se loppu sen. Näin ylpeys kukistuu.
+
+                  J.H. Kellgren.
+
+
+
+
+SATAKIELI.
+
+
+    Minä lintunen satakielinen,
+    rusorintainen, kupukaunoinen,
+    pesän laatisin tarhaan rikkahan
+     alle katoksen, päälle ortisen;
+    mutta sielläkin minä varajan:
+    pojat pienoset, kisakiihkoiset
+     pesän rikkovat, kesän hukkaavat.
+
+    Minä lintunen satakielinen,
+    rusorintainen, kupukaunoinen,
+    pesän laatisin köyhän tanhuaan
+     alle katoksen, päälle ortisen;
+    mutta sielläkin minä varajan:
+    katos kaatuvi, pesä rikkoutuu,
+     pesä rikkoutuu, kesä hukkautuu.
+
+    Minä lintunen satakielinen,
+    rusorintainen, kupukaunoinen,
+    pesän laatisin valtavainioon,
+     valtavainioon, pellon pientaroon;
+    mutta sielläkin minä pelkäisin
+    kyntöpoikoa pölypaitoa:
+     pesän rikkoisi, kesän hukkaisi.
+
+    Minä lintunen satakielinen,
+    rusorintainen, kupukaunoinen,
+    pesän laatisin nurminiitulle,
+     nurminiitulle viherjäiselle;
+    mutta sielläkin minä pelkäisin
+    niittopoikoa valkopaitoa:
+     pesän rikkoisi, kesän hukkaisi.
+
+               Muk. Arvi Jännes.
+
+
+
+
+SIMPUKAN TARINA.
+
+
+    Pieni simpukka
+    kuoress' eli ain',
+    sisäpuoltansa
+     näyttänyt ei vain.
+
+    Mitä syvällä
+    hänen sielussaan
+    kärsi elämä,
+    ken sen tunsikaan!
+
+    Tuskat salaten
+    kivirantahan
+    loi se sisällen
+    helmen ihanan.
+
+    Myrsky temmeltäin
+    kerran nosti sen,
+    heitti maalle päin
+    kukkarannallen.
+
+    Kuoli simpukka
+    valoss' auringon.
+    Aallon rikkoma
+    kuori auki on.
+
+    Päivä sydämeen
+    paistoi hellänä
+    sieltä nähdäkseen
+    pientä helmeä.
+
+    Paimentyttönen
+    metsänihana
+    löysi pienoisen
+    helmen rannalta.
+
+    Sanoi: »Tässä on
+    niinkuin kyynele.
+    Hohtees auringon
+    välkkyy vieno se.»
+
+    Helmen ihastuin
+    kiinsi kulmilleen,
+    riensi hymysuin
+     metsän syvyyteen.
+
+         Aapo Pärnänen.
+
+
+
+
+SINNE MENI!
+
+
+    »No auttakaa, hyvät ihmiset, oi!
+    jo maahan meni nyt multa
+    niin makeat maidot ja juustot ja voi
+     ja herttainen kerma kulta!»
+
+    Näin huutavi Liisa muori nyt
+    ja rattaiden luokse hän karkaa,
+    mut siellä on kaikki särkynyt. —
+    Voi sinua, Liisa parkaa!
+
+        *   *   *
+
+    Liisa oli maitomuori.
+    Liisall' oli koira nuori,
+    Vahti oli nimi sen.
+    Maitokuormaa vetäissänsä
+     metsään loi se silmiänsä,
+    niinkuin mitä hakien.
+    Olispa jo useasti
+    mennytkin ties minne asti,
+    vaan kun valpas Liisa esti,
+     niin se aisoissansa kesti.
+
+    Mutta kerran sattui niin:
+    kulkivat he taasen kaupunkiin.
+    Liisa ilomieliä,
+    Vahti — mitä vielä!
+     Suruissansa vaan
+    toimeen tukalaan,
+    niin juur' siellä,
+    missä juoksee puro pien'
+     — huh, kun juttu tää
+    hirvittää! —
+     jänis hyppäs poikki tien!
+
+    Liisa hämmästyi
+    Liisa äimästyi:
+    siunas kerran, toisen,
+     nähden pedon moisen.
+    Vahti hyörähti,
+    Vahti pyörähti,
+    haukahti ja — sillä erää
+     lähti jänön perään.
+
+    Katsokaas nyt vääräsäärtä
+    tuolla pitkin ahon äärtä
+     juoksee, kiskoo,
+    koipiaan viskoo.
+    Vahti poika koittaa
+    pupu parkaa voittaa,
+     mutta äkkiäpä — rops! ja raps!
+    — Voi sinua tuhma laps! —
+    Nyt sun kävi sillä-kurin:
+    rattaat meni nurin.
+    Liisa kävi parkuun,
+     jänis pääsi karkuun.
+
+         Samuli Suomalainen.
+
+
+
+
+SIRKAN HÄÄMATKA.
+
+
+    Mikä laulu lainehilla,
+    soitto aalloilla sorea? —
+     Laiva aaltoja ajavi,
+    häävene vesiä käypi. —
+    Kenen on kulta kulkemassa,
+     kenen on häätulet hämyssä? —
+
+    Sirkan on vesillä venho,
+    sirkan tuoma tuhtopuulla.
+     Kuka on kulta heinäsirkan? —
+    Lepinkäinen leppälintu.
+    Minne matka miekkoisien? —
+    Saarelle selälliselle,
+     terhenniemen tanterelle.
+
+             Eino Leino.
+
+
+
+
+SIRKKA.
+
+
+    Sirkka lauloi lystiksensä
+    oman intonsa ilossa,
+    huviksensa hyräeli
+    metisellä mättähällä
+     simakukkien seassa.
+
+    »Mitä laulat, laiskiainen,
+    hullutuksia hyräilet?
+     Työtä tee, sill' eihän vatsa
+    täyty tyhjistä loruista»,
+    torui muuan muurahainen
+     sirkan syytöntä iloa.
+
+    Päivä paistoi. Nurmen nunnut
+    kukat kultaiset kedolla
+    katselivat, kuuntelivat,
+     kun hän laulella liritti.
+
+    Sirkka lauloi lystiksensä
+    oman intonsa ilossa,
+    huviksensa hyräeli
+    metisellä mättähällä
+     simakukkien seassa.
+
+              Kallio.
+
+
+
+
+SORSAPARVI.
+
+
+    Loiskis sorsat lampehen!
+    Pikku Yrjö poikanen
+    kumppaniksi heillen!
+     Kaiken kesää sorsat ui,
+    iloisesti pulikoi,
+    syksyllä he teilleen
+    lähtee, lentää kauas pois,
+     missä lämpimämpi ois.
+
+    Niin myös Yrjö poikanen,
+    kosk' on vesi lämpöinen,
+    pulikoitse tässä.
+     Ennenkin kuin kylmä jää
+    vielä kasvaa kerkiää
+    kylpyammehessa,
+    lapsi viedään kylvystään
+     äidin syliin lämpimään.
+
+                 Suonio.
+
+
+
+
+SORSAT.
+
+
+    Loiskuttaa, läiskyttää,
+    paapattaa, piipittää!
+     Sorsaparv' on lammikossa,
+    riehuu tuolla ruo'ikossa.
+     Pelotta ne pulikoi,
+    kyllä emä vartioi.
+    Vihamies jos lähenee,
+    emonen vaan viuhkaisee,
+    kohta kaikki sukeltaapi;
+     pitkän nenän kettu saapi.
+
+                Suonio.
+
+
+
+
+SUDEN KIITOS.
+
+
+    Susi! Kuule, veikko
+    ootko nähnyt hukkaa?
+     Ei se ole mummo,
+    joka kutoo sukkaa
+    lämpimäksi talven, kutoen
+    monen hyvän mietteen
+     joka silmään sen.
+
+    Hukka, se on susi,
+    kiittämätön, kurja.
+     Hyvä ajatus
+    on sille oikku hurja.
+    Tähtiöisin ulvoo,
+    hakee saalistaan
+    hukka, suurin peto
+     synkän salomaan.
+
+    Vallan äsken iski
+    hukka suureen luuhun.
+     Miten oli, tarttui
+    saalis sille suuhun.
+    Susi juoksi heti
+    kylään avun hakuun.
+     Auta, auta, annan
+    palkkiosta takuun.
+    Kunhan kurkun jälleen
+    toimimahan laadit,
+    tohtorini, maksan
+     heti, minkä vaadit!
+
+    Lääkäri, hän kiskoi,
+    kiskoi irti luun.
+    Paranteli, rohti
+    suden suuren suun.
+     Uhh! Näin puhui
+    hukka auttajalleen:
+    palkaksi en heti sua syö.
+     Ellei nenäsi
+    niin kova oisi
+    ei ois surmassasi
+     vaiva, työ.
+
+    Veikko, sudet haastaa
+    joskus ihmiskieltä.
+    Väistä, milloin silmät
+     tietää suden mieltä! —
+
+           Arvid Lydecken.
+
+
+
+
+TIPU, TIPU KUULEPPAS.
+
+
+    Tipu, tipu kuuleppas,
+    miks toit tänne poikias?
+     Papan korean kukkasmaan
+    rikki noukkivat kokonaan.
+     Varmaan arvelit, kunnoton:
+    pikku Leena on voimaton,
+    miten meitä hän estää vois.
+    Mutta malta, ma isää huudan,
+    kohta tuopi hän suuren luudan,
+     ettekö silloin pötki pois!
+
+                    Suonio.
+
+
+
+
+TOHTORIN LUONA.
+
+
+    »Hyvää päivää!»
+                »Istukaatte,
+    kuinkas herrasväki jaksaa?»
+
+      »Huonost' niinkuin kuulla saatte,
+    yskä vaivaa meidän Kraksaa —
+    yski, Kraksa, että saisi
+     tohtor kuulla» —
+
+                  »Eihän vainen
+    keuhkotauti tavoittaisi?
+    Nyt on talvi kylmänlainen.»
+
+      »Eikö mitä keuhkot aivan
+    hyvät on, vaan ääni julma;
+    kasvatuksen kaiken vaivan
+    tyhjäks tekee tämä pulma.
+     Laulajaksi hänet soisin,
+    leivon, tilhin vertaiseksi,
+    mutta ääni soipi toisin,
+    eikö tohtor jotain keksi,
+     joka hälle äänen antais?»
+
+      »Hm! jos hälle kääre pantais
+    kaulan ympär — hm! ja sitten
+    nokkaa hiukan lyhennettäis...»
+
+      »Nokkaa — kuinka? Laulajitten —
+    jollei muistoni mun pettäis —
+    lup' on laulaa nokkans mukaan.»
+
+      »Hyvä! Sit' ei kiellä kukaan.
+    Senpätähden paras oisi,
+     että myöskin tyttärenne,
+    jos hän jotain laulaa soisi,
+    laulais teidän riemuksenne
+     oman nokan nuottiloita,
+    sydämen ja tunnon kieltä:
+    Se on suurin laulajoita,
+    joka nuottins' ottaa sieltä,
+    eikä se, mi liverrykset,
+     laverrukset kaikki tietää.»
+
+      »Herra tohtor, esitykset
+    nuo ne miettimistä sietää.
+    Hyväst' siis ja voikaa hyvin,
+     kiitos sydämestä syvin.»
+
+                   Tilhi.
+
+
+
+
+TURVATON.
+
+
+    Pikkuinen kissanpoika,
+    turvaton kulkijain,
+    siinä se hyrrää, kehrää,
+     kyyryssä vuoteellain.
+
+    Kättäni vasten painaa
+    pehmeän pääkkösen,
+    nauttivi lämmöstä huoneen,
+     lämmöstä hellyyden.
+
+    Ulkoa toin sen äsken —
+    mistäpä tullut lie;
+    kadulle kohta sen jälleen
+     viluhun matka vie.
+
+    Pikkuinen ystävä raukka,
+    kulkija turvaton!
+    Yks olet niistä, joita
+     maailma täynnä on.
+
+    Hetkinen lämpöä joskus,
+    muuten kolkkoa vaan,
+    yksin ja ystävittä
+     heitetty kulkemaan!
+
+         Hilja Haahti.
+
+
+
+
+ TUU, TUU, TUU, TUU!
+
+
+    Tuu, tuu, tuu, tuu!
+    Karjani käy.
+     Tääll' on heinää, vettä;
+    hukkaa ei näy,
+    ei ole mitään hätää.
+     Tuu, tuu, tuu, tuu!
+
+    Hetkeks jätän karjan,
+    lähden tuonne marjaan,
+    poimin punapuolukoita,
+     makeisia mansikoita.
+    Kotiin ne kannan.
+    Kelles ne annan?
+    Kuka arvajaa,
+     hän ne saa!
+
+         Suonio.
+
+
+
+
+TYTTÖ JA KISSA.
+
+
+    Tyttönen:
+
+      Kiellä, Miiri poikas pois,
+      ettei tielläni ne ois!
+       Kas kun repivi ne kerään';
+      kun pois vedän, karkaa perään!
+      Heillen en voi laittaa sukkaa,
+       jos näin työtäni ne hukkaa!
+
+    Kissa:
+
+      Sukat meill' jo ennestään,
+      joissa hiljaa hiivitään.
+      Mutta pienten poikaini
+       pitäis tulla nopsaiksi,
+      harppaella, tavoittaa,
+      että sitten kiinni saa
+      hiiren, mikä joka yö,
+       sokeristas palan syö,
+      nakertaapi korppujas,
+      pilaa suita namujas.
+      Siksi salli poikasten
+       leikkiä nyt oppien.
+
+                Suonio.
+
+
+
+
+TYTTÖ JA KISSANPOIKASET.
+
+
+    »Katso, mummo, iloiset
+    kissanpojat pienoiset
+    hupaisesti leikkii aina,
+     heit' ei huoli koskaan paina.
+    Eipä kissanpoikien
+    ole pakko hikoillen
+    neula käessä istuskella,
+     aapiskirjaa tutkistella.»
+
+    Pikku Liisa lausui näin;
+    mutta päätään nyykyttäin
+     vanha mummo itseksensä
+    lausuu nämä miettehensä:
+    »Kissanpojat, tyttöset
+    ovat yhdenkaltaiset;
+    eipä näiden murehista
+     ole paljon puhumista.»
+
+            Pääskynen.
+
+
+
+
+VALOKUVAAJASSA.
+
+
+    Ei saa silmiä räpyttää,
+    ei saa päätänsä kääntää,
+    ei saa heilua hännänpää,
+     ei saa viiksiä vääntää!
+
+    Korvat hörössä kokottaa
+    mestarin eessä missit.
+    Eihän nyt noin saa mokottaa,
+     iloa silmiin, kissit!
+
+             Immi Hellén.
+
+
+
+
+VARPUNEN.
+
+
+    Jos Tuikutella voisin
+    ma kielin sataisin
+    tai kiurusena oisin
+     kohoova pilvihin, —
+
+    niin aina kiitteleisin
+    suloista Suomea,
+    ja Jumalalle veisin
+    ma huokauksensa.
+
+    Hän silmät ehkä' loisi
+    myös meihin raukkoihin
+    ja päivän paistaa soisi
+    saloihin synkkihin.
+
+    Ei ääni mulle suotu
+    oo satakielisen;
+    heikoksi siipi luotu
+    ei kanna taivaasen.
+
+    Vaan laulustani kuiten
+    en huoli vaieta,
+    kun ääni lintuin muitten
+    ei kuulu talvella.
+
+    Paremmat lauluäänet
+    keväällä ehtinee,
+    niin kuullellessaan noita
+     jo varpu vaikenee!
+
+                 Suonio.
+
+
+
+
+VARPUNEN JA HEVONEN.
+
+
+    Hepo kauroja haukkasi seimestään.
+    Luo lensi varpunen nälissään:
+     »jyvä pienonen, ystävä kulta, suo,
+    vai kaksiko saan minä?» pyysi tuo.
+    Hepo vastasi: »syö mitä miellyttää,
+     viel' yltäkyllin mullekin jää.»
+
+    Hyvä muillekin suo, mit' on itsellään.
+    Niin varpunen pääs yli talven sään.
+     Kun saapui taas kesän lämpöiset,
+    hevost' alkoi kiusata kärpäset.
+    Niit' otti kiinni nyt varpunen,
+     näin kelpo ystävän palkiten.
+
+                Z. Topelius.
+
+
+
+
+VARPUNEN JOULU-AAMUNA.
+
+
+    Lumi ompi peittänyt
+    kukat laaksosessa,
+    järven aalto jäätynyt
+    talvi-pakkasessa,
+     varpunen
+    pienoinen
+    syönyt kesän einehen;
+    järven aalto jäätynyt
+     talvi-pakkasessa.
+
+    Pienen tuvan ovella
+    seisoi tyttö-kulta:
+    »Tule, varpu, ilolla,
+    nouki siemen multa.
+    Joulu on
+    koditon
+    varpuseni onneton,
+    tule tänne ilolla,
+    nouki siemen multa.»
+
+    Noukkimaan nyt siementä
+    lensi varpu-kulta:
+    »Kiitollisna einettä
+    otan kyllä sulta.
+    Palkita
+    Jumala
+    tahtoo kerran sinua.»
+    Noukkimaan nyt siementä
+    lensi varpu-kulta.
+
+    »En mä ole, lapseni,
+    lintu tästä maasta.
+     Olen pieni veljesi,
+    tulin taivahasta.
+    Siemenen
+     pienoisen,
+    jonka annoit köyhällen,
+    sai sun pieni veljesi
+     enkeleitten maasta.»
+
+         Z. Topeliuksen mukaan.
+
+
+
+
+VASIKKA.
+
+
+    Vasikkani vallaton
+    ensikerran päässyt on
+    talvimajastansa.
+     Katsos kuin se iloitsee,
+ 
+    katsos kuin se hyppelee,
+    häntä suoranansa.
+     Ruohoa nyt haistaa,
+    vaan ei malta maistaa;
+    lähtee hyppyyn jällehen,
+     iloisesti myykien.
+
+              Suonio.
+
+
+
+
+VIERAISILLA.
+
+
+    Hiiripä naapurit kutsui kestiin,
+    emo se hyöri,
+    poikaset pyöri,
+     lattia laastiin, portaat pestiin.
+
+    Pantiin pöytähän herkut hyvät:
+    juustoa, voita
+    ja makkaroita,
+    herneet ja pavut ja vehnänjyvät.
+
+    Vieraita saapuu paljon kyllä,
+    äiti ja mummi,
+    lapset ja kummi,
+    kaikilla juhlavaatteet yllä.
+
+    Herkkuja hyviä vieraat kiittää.
+    Hampaat ne naksaa,
+    syödä he jaksaa,
+    vieläpä kotijoukolle riittää.
+
+    »Näin mistä saitkaan lihat ja kalat?
+    kysynpä sulta
+    emäntä kulta,
+    meillä on kotona kuivat palat.»
+
+    »Ainahan sitä, kun liukkaasti liikkuu,
+    reikiä kaivaa,
+    polkuja raivaa —
+    aitassa paistit ja makkarat riippuu.
+
+    Siellä on hinkalot, laarit laajat,
+    meijerivoita,
+    ja piirakoita,
+    juustoja, munia rivit taajat.»
+
+    »Niin, mutta meillä on kissa häijy,
+    suuri ja julma,
+    siitä on pulma,
+    aina se pienten retkiä väijyy.»
+
+    »Onhan se meilläkin nimeltä Tuuro,
+    viiksiniekka,
+    kynnet kuin miekka,
+     vaan se on onneksi vanha ja kuuro.»
+
+                   Immi Hellén.
+
+
+
+
+YRJÖ, MUSTI JA MIRRI.
+
+
+    Pikku Yrjö:
+
+      Mitä Musti sa aattelet?
+      Virka jo, mitä mietteesi maksaa!
+
+    Musti:
+
+      Mietinpä, milloin Yrjö jaksaa
+      kummut kulkea metsäiset.
+       Kuinka kauan se Musti saa
+      miestä sinusta odottaa?
+      Salolla kun sun pyssysi paukkuu,
+       Musti riemulla silloin haukkuu.
+
+    Mirri (syrjästä):
+
+      Nau, nau! Musti on kuollut kenties,
+      Ennenkuin Yrjöstä varttuvi mies.
+
+                      Joulupukki.
+
+
+
+
+YÖKKÖ.
+
+
+    Öisin yököt lentelevät,
+    päivin piilossa pysyvät;
+    lapset päivin oppimassa,
+     öisin unta ottamassa.
+
+             Länkelä.
+
+
+
+
+ARVOITUKSIA.
+
+
+    Tervakääry tietä kulki,
+    Karvatuurukka jälessä?
+
+                Koira.
+
+
+    Keräpää, korentohäntä,
+     Keskus yhtä ymmyrkäinen?
+
+                Kissa.
+
+
+    Kraatari meni katolle,
+     Kyynärpuu perässä kulki?
+
+                    Kissa.
+
+
+    Kipunoita kuin taivaan tähtiä,
+    Eikä polta kuitenkaan?
+
+                Kissan silmät.
+
+    Kaksi kampaa päässä,
+     Esiliina takapuolla?
+
+                Lehmä.
+
+
+    Mies metsähän menevi,
+     Seipähiä selkä täynnä?
+
+                Sika.
+
+
+    Tenka juoksi tietä myöten,
+     Hopeainen hoijotteli?
+
+                Kettu.
+
+
+    Mustasukka, karvakenkä,
+    turkkiahan tupsuttavi,
+     nahkasia napsuttavi?
+
+                Susi.
+
+
+    Mies kymyrä, nenä nykerä,
+    Iitse liinapaiallansa?
+
+                Jänis.
+
+
+    Mies juoksi salon sivua,
+    punaturkki tupsutteli,
+     pää keikkui, helisi sarvet?
+
+                Orava.
+
+
+    Luunokka, lihainen parta,
+    kuikistaikse, keikistäikse,
+     äsken äänehen parahti?
+
+                Kukko.
+
+
+    Ora, ora edellä,
+    kerä, kerä keskellä,
+     keritsimet jäljessä?
+
+                Pääskynen.
+
+
+    Mustempi syttä,
+    valkeampi lunta,
+    korkeampi kotaa,
+     matalampi rekeä?
+
+                Harakka.
+
+
+    Musta mies mäen takana,
+    Neuloja nielee, äimiä appaa?
+
+                Metso.
+
+
+    Mytty mättähän takainen,
+    Kiekura kiven alainen?
+
+                Käärme.
+
+
+    Liha alla, luu päällä?
+
+                Rapu.
+
+
+    Ei niin pieniä pitoja,
+    Ettei kuokkavierahia?
+
+                Kärpäset.
+
+
+    Pikku musta köykkyselkä,
+    Ison rangan liikuttavi?
+
+                 Kirppu.
+
+
+    Istuu, imee, lentää laulaa,
+    kulkevi kulon sisähän,
+    luopi poikia pesähän,
+     ne kaikki kähäräpäitä?
+
+                Mehiläinen.
+
+
+    Puuropata kankahalla,
+    Kylän lapset ympärillä?
+
+                Muurahaispesä
+
+
+    Äijä käyrä känkkyrä,
+    päällä takki piikkisä.
+    Kävelee ja kyntelee,
+     rapakossa lepäilee?
+
+                Sika.
+
+
+    Innin tinnin, jännin jynnin,
+    jyrkät polvet, väärät sääret,
+     harmaa hamonen päällä?
+
+                Hyttynen.
+
+
+    Edestä kuin kerä,
+    keskeltä kuin säkki,
+     perästä kuin luudan varsi?
+
+                Kissa.
+
+
+    Edestä ora, keskeltä kerä,
+    Perästä petkelen terä?
+
+                Kana.
+
+
+    Istualla suurempi.
+    Seisoalla pienempi.
+
+                Koira.
+
+
+
+
+SANANLASKUJA.
+
+
+    Ei tule lintu liikkumatta,
+    kala jalan kapsamatta.
+
+
+    Ei pyystä perehen syödä
+    oravasta kolmin panna.
+
+
+    Ilona käki metsässä,
+    lammas laiho-halmehessa.
+
+
+    Kyllä susi syitä saa,
+    kun mieli lampaan lihaa tekee.
+
+
+    Ruskea repo kuoltuansaki.
+
+
+    Jäneksell' on pitkät sääret,
+     takaiset jalat kevelät.
+
+
+    Kissa kiitellen elävi,
+    katin poika kaunistellen,
+     koira päätä silitellen.
+
+
+    Sanasta miestä sarvesta härkää.
+
+
+    Pane pukki kaalimaahan,
+    koira makkaran vahdiksi.
+
+
+    Itselleen porsas kiusaa tekee,
+    kun purtilonsa kaataa.
+
+
+    Kylässä kukko laulaa,
+    haukkuu peni pellonkin takana.
+
+
+    Ei kukko käskyllä laula,
+    ellei laula käskemättä.
+
+
+    Susi suulta julkeampi,
+    pukki parralta parempi.
+
+
+    Ei haukkuva koira jänistä saa.
+
+
+    Kettu on koiralle sukua,
+    korppi haukan heimolainen.
+
+
+    Katso koiraa kuonoon,
+    älä karvaan!
+
+
+    Kissalle kiiskiä
+    koiralle kuoreita.
+
+
+    Paha koira puree,
+    hyvä liehakoitseleepi.
+
+
+    Missä kissa, kun hiiret pöydällä!
+
+
+    Kissan ilo, hiiren itku!
+
+
+    Kultaa kissan kielen päässä.
+
+
+    Saadakseen kissa naukuu,
+    ottaakseen koira haukkuu.
+
+
+    Ahven armas tuorehelta,
+    särki säästöstä parempi.
+
+
+    Näytä etana sarves, onko huomenna pouta.
+
+
+    Harvoin nähden on harakkakin kaunis.
+
+
+    Hauen suussa kalan hauta,
+    hauen hauta kattilassa.
+
+
+    Toinen karhulla ajatus,
+    toinen karhuntappajalla.
+
+
+    Ketulla on keveät kengät:
+    ne ei pauku pakkasella, —
+     ei kolka kovalla säällä.
+
+
+    Ilona käki metsässä,
+    lapsi pieni lattialla.
+
+
+    Käki tuo suven sanoman,
+    pääsky päivän lämpimän.
+
+
+    Lokki luotohon muniipi,
+    kajava kivikarihin.
+
+
+    Kun pyy pyrähti, niin maa järähti
+    ja luojan sydän tärähti.
+
+
+    Ei ulvova susi pahaa tee.
+
+
+    Syö se susi luetunkin lampaan.
+
+
+    Varahin varas jalalla,
+    ennen muita musta lintu.
+
+
+    Yöllä yököt lentelevät,
+    päivällä paremmat linnut.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75830 ***
