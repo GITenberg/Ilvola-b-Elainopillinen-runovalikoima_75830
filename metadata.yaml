@@ -1,0 +1,40 @@
+_repo: Ilvola-b-Elainopillinen-runovalikoima_75830
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Fieandt, Einar
+    birthdate: 1879
+    deathdate: 1936
+    gutenberg_agent_id: '58170'
+    url: http://www.gutenberg.org/2009/agents/58170
+    wikipedia: https://fi.wikipedia.org/wiki/Einar_Fieandt
+  - agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+description: ''
+gutenberg_issued: '2025-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75830'
+language: fi
+pgterms:marc905: 20250210053725various
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+- GITenberg
+title: 'Ilvola : $b Eläinopillinen runovalikoima'
+url: http://www.gutenberg.org/ebooks/75830
